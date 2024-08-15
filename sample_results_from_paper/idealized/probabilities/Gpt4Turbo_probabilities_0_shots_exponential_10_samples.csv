@@ -1,0 +1,1901 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.0803,<answer>0.0803</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.1169,<answer>0.1169</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.0693,<answer>0.0693</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.0985,<answer>0.0985</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.0985,<answer>0.0985</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.0716,<answer>0.0716</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.0974,<answer>0.0974</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.0465,<answer>0.0465</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.1132,<answer>0.1132</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 59.861 and 80.002?
+Answer:
+",0.1282,<answer>0.1282</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.2345,<answer>0.2345</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.2375,<answer>0.2375</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.2042,<answer>0.2042</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.228,<answer>0.228</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.1841,<answer>0.1841</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.2283,<answer>0.2283</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.1512,<answer>0.1512</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.206,<answer>0.206</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.2283,<answer>0.2283</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.269 and 91.689?
+Answer:
+",0.0977,<answer>0.0977</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.393469,<answer>0.393469</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.189,<answer>0.189</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.3439,<answer>0.3439</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.1677,<answer>0.1677</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.2386,<answer>0.2386</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.2093,<answer>0.2093</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.1915,<answer>0.1915</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.2173,<answer>0.2173</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.257,<answer>0.257</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 43.242 and 104.937?
+Answer:
+",0.3413,<answer>0.3413</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.197,<answer>0.197</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.332,<answer>0.332</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.216,<answer>0.216</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.2027,<answer>0.2027</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.2090,<answer>0.2090</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.232544,<answer>0.232544</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.231527,<answer>0.231527</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.2339,<answer>0.2339</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.4096,<answer>0.4096</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.1 and 119.83?
+Answer:
+",0.3903,<answer>0.3903</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.4346,<answer>0.4346</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.3936,<answer>0.3936</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.3585,<answer>0.3585</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.4329,<answer>0.4329</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.4257,<answer>0.4257</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.5179,<answer>0.5179</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.4347,<answer>0.4347</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.367879,<answer>0.367879</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.4192,<answer>0.4192</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.352 and 137.567?
+Answer:
+",0.4812,<answer>0.4812</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.5584,<answer>0.5584</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.6832,<answer>0.6832</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.5175,<answer>0.5175</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.736,<answer>0.736</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.358,<answer>0.358</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.4023,<answer>0.4023</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.658,<answer>0.658</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.30685,<answer>0.30685</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.4866,<answer>0.4866</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 23.001 and 159.163?
+Answer:
+",0.864664,<answer>0.864664</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.90,<answer>0.90</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.572,<answer>0.572</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.522,<answer>0.522</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.8011,<answer>0.8011</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.82,<answer>0.82</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.6832,<answer>0.6832</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.82,<answer>0.82</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.7213,<answer>0.7213</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.82,<answer>0.82</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.002 and 185.78?
+Answer:
+",0.820,<answer>0.820</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.88,<answer>0.88</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.88,<answer>0.88</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.881,<answer>0.881</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.88,<answer>0.88</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.88,<answer>0.88</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.88,<answer>0.88</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.878,<answer>0.878</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.88,<answer>0.88</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.6838,<answer>0.6838</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.255 and 222.795?
+Answer:
+",0.88,<answer>0.88</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.93,<answer>0.93</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.932,<answer>0.932</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.93,<answer>0.93</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.9179,<answer>0.9179</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.932,<answer>0.932</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.932,<answer>0.932</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.5799,<answer>0.5799</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.7522,<answer>0.7522</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.98 and 283.685?
+Answer:
+",0.940172,<answer>0.940172</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 0.951 and 457.884?
+Answer:
+",0.98,<answer>0.98</answer>

@@ -1,0 +1,1651 @@
+prompt,answer,reasoning
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0.00003,<answer>0.00003</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0.001,<answer>0.001</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0.00003,<answer>0.00003</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0.0001,<answer>0.0001</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0.000004,<answer>0.000004</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0.002,<answer>0.002</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -21.7 degrees Celsius?
+Answer:
+",0.00003,<answer>0.00003</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",1.09,<answer>1.09</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",0.69,<answer>0.69</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",1.39,<answer>1.39</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",1.13,<answer>1.13</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",3.83,<answer>3.83</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",0.82,<answer>0.82</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",0.81,<answer>0.81</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",0.55,<answer>0.55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",3.11,<answer>3.11</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -6.4 degrees Celsius?
+Answer:
+",1.72,<answer>1.72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",15.54,<answer>15.54</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",16.54,<answer>16.54</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",15.39,<answer>15.39</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",14.58,<answer>14.58</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",12.51,<answer>12.51</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",14.94,<answer>14.94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",14.7,<answer>14.7</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",13.65,<answer>13.65</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",16.35,<answer>16.35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of -0.4 degrees Celsius?
+Answer:
+",15.61,<answer>15.61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",10.23,<answer>10.23</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",10.77,<answer>10.77</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",10.58,<answer>10.58</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",10.93,<answer>10.93</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",15.14,<answer>15.14</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",10.74,<answer>10.74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",12.35,<answer>12.35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",18.00,<answer>18.00</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",9,<answer>9</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 3.8 degrees Celsius?
+Answer:
+",12.92,<answer>12.92</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",34.75,<answer>34.75</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",33.66,<answer>33.66</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",32.45,<answer>32.45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",21.06,<answer>21.06</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",20.78,<answer>20.78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",18.84,<answer>18.84</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",17.13,<answer>17.13</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",34.03,<answer>34.03</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",24.41,<answer>24.41</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 8.0 degrees Celsius?
+Answer:
+",28.82,<answer>28.82</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",57,<answer>57</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",56.51,<answer>56.51</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",56.36,<answer>56.36</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",55.25,<answer>55.25</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",54.78,<answer>54.78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",55.64,<answer>55.64</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",54.8,<answer>54.8</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",56.97,<answer>56.97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",55.95,<answer>55.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 11.8 degrees Celsius?
+Answer:
+",58.51,<answer>58.51</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",76.94,<answer>76.94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",80.23,<answer>80.23</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",80.78,<answer>80.78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",80.79,<answer>80.79</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",70.62,<answer>70.62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",80.8,<answer>80.8</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",73.36,<answer>73.36</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",73.17,<answer>73.17</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 15.3 degrees Celsius?
+Answer:
+",73.9,<answer>73.9</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.26,<answer>84.26</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.0,<answer>84.0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.04,<answer>84.04</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.09,<answer>84.09</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.12,<answer>84.12</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.134,<answer>84.134</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.09,<answer>84.09</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.13,<answer>84.13</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.04,<answer>84.04</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 18.9 degrees Celsius?
+Answer:
+",84.09,<answer>84.09</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",96.52,<answer>96.52</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",97.6,<answer>97.6</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",97.58,<answer>97.58</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",97.65,<answer>97.65</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",94.96,<answer>94.96</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",97.56,<answer>97.56</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",96.99,<answer>96.99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",96.45,<answer>96.45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",98.97,<answer>98.97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 22.8 degrees Celsius?
+Answer:
+",96.95,<answer>96.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",99.74,<answer>99.74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",99.9,<answer>99.9</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",97.85,<answer>97.85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",99.8,<answer>99.8</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",99.97,<answer>99.97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",98.61,<answer>98.61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 26.8 degrees Celsius?
+Answer:
+",99.88,<answer>99.88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.93,<answer>99.93</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.97,<answer>99.97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.991,<answer>99.991</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.94,<answer>99.94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average temperature value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 10.643
+  Standard Deviation: 12.628
+
+## Here is your question:
+Question:
+What is the percentile of an average temperature of 30.9 degrees Celsius?
+Answer:
+",99.96,<answer>99.96</answer>

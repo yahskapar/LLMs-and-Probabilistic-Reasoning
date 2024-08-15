@@ -1,0 +1,3780 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5.0,<answer>5.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5.0,<answer>5.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5.0,<answer>5.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.2625,<answer>14.2625</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",85.7375,<answer>85.7375</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",,<answer>14.2625</pastanswer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.2625,<answer>14.2625</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.2625,<answer>14.2625</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.2625,<answer>14.2625</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.26,<answer>14.26</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.2625,<answer>14.2625</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.2625,<answer>14.2625</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.2625,<answer>14.2625</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.38,<answer>77.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",22.62,"To find the percentile of the value 5.0 in a geometric distribution with a probability of success \( p = 0.05 \):
+
+1. **Calculate the cumulative probability up to 5.0**: 
+   The formula for the cumulative distribution function (CDF) of the geometric distribution for \( k \) trials is:
+   \[
+   P(X \leq k) = 1 - (1 - p)^k
+   \]
+   Plugging in \( p = 0.05 \) and \( k = 5 \):
+   \[
+   P(X \leq 5) = 1 - (1 - 0.05)^5 = 1 - 0.95^5 = 1 - 0.7737809375 \approx 0.2262190625
+   \]
+
+2. **Convert to percentile**:
+   Multiply the cumulative probability by 100 to convert it to a percentile:
+   \[
+   0.2262190625 \times 100 \approx 22.62
+   \]
+
+Therefore, the percentile of the value 5.0 within this distribution is:
+<answer>22.62</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.379,<answer>77.379</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.38,<answer>77.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",22.63,<answer>22.63</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.38,<answer>77.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.379,<answer>77.379</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.38,<answer>77.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",68.19,<answer>68.19</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",69.2,<answer>69.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",68.2,<answer>68.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",67.2,<answer>67.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",69.3,<answer>69.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",72.3,<answer>72.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",65.7,<answer>65.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",66.515,<answer>66.515</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",67.2,<answer>67.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",69.23,<answer>69.23</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",40.1,"To calculate the percentile of the value 10.0 within a geometric distribution with a probability of success of 0.05, we use the cumulative distribution function (CDF) of the geometric distribution.
+
+The CDF for a geometric distribution with success probability \( p \) at value \( k \) is given by:
+\[ F(k) = 1 - (1 - p)^k \]
+
+Here, \( p = 0.05 \) and \( k = 10 \).
+
+Plugging in these values:
+\[ F(10) = 1 - (1 - 0.05)^{10} \]
+\[ = 1 - 0.95^{10} \]
+\[ = 1 - 0.5987369392383787 \]
+\[ = 0.4012630607616213 \]
+
+To convert it to a percentile, we multiply by 100:
+\[ \text{Percentile} = 0.4012630607616213 \times 100 \]
+\[ \approx 40.1 \]
+
+Thus, the percentile of the value 10.0 within this distribution is:
+<answer>40.1</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",40.1,<answer>40.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",59.87,<answer>59.87</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",60.0,<answer>60.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",56.3,<answer>56.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",60.3,<answer>60.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",60.1,<answer>60.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",59.9,<answer>59.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",60.0,<answer>60.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",59.874,<answer>59.874</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",51.3,<answer>51.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",52.3,<answer>52.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",52.6,<answer>52.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",52.3,<answer>52.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",51.29,"To determine the percentile of the value 14.0 within a geometric distribution with a probability of success p = 0.05, we first need to calculate the cumulative distribution function (CDF) up to that point.
+
+The formula for the CDF of a geometric distribution, evaluated at k, is:
+\[ P(X \leq k) = 1 - (1 - p)^k \]
+
+For p = 0.05 and k = 14:
+\[ P(X \leq 14) = 1 - (1 - 0.05)^{14} \]
+\[ = 1 - 0.95^{14} \]
+\[ = 1 - 0.4871 \]
+\[ = 0.5129 \]
+
+To convert this probability to a percentile, we multiply by 100:
+\[ 0.5129 \times 100 = 51.29 \]
+
+Therefore, the percentile of the value 14.0 within this distribution is approximately:
+<answer>51.29</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",52.1,<answer>52.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",51.62,<answer>51.62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",52.3,<answer>52.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",52.9,<answer>52.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",52.3,<answer>52.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",64.15,<answer>64.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",64.15,<answer>64.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",63.6,<answer>63.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",63.4,<answer>63.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",64.15,<answer>64.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",62.3,"To find the percentile of the value 18.0 in a geometric distribution with a probability of success of 0.05, we need to calculate the cumulative distribution function (CDF) for this value.
+
+The CDF of a geometric distribution with probability parameter \( p \) at value \( k \) is given by:
+\[ F(k) = 1 - (1 - p)^k \]
+
+For \( p = 0.05 \) and \( k = 18 \):
+\[ F(18) = 1 - (1 - 0.05)^{18} \]
+\[ F(18) = 1 - 0.95^{18} \]
+\[ F(18) = 1 - 0.377353602 \]
+\[ F(18) \approx 0.622646398 \]
+
+To convert this to a percentile, multiply by 100:
+\[ 0.622646398 \times 100 \approx 62.2646398 \]
+
+Thus, the percentile of the value 18.0 within this distribution is:
+<answer>62.3</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",63.58,<answer>63.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",63.3,<answer>63.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",64.2,<answer>64.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",62.3,"To find the percentile for the value 18.0 in a geometric distribution with a probability of success \( p = 0.05 \), we calculate the cumulative distribution function (CDF) for a geometric distribution at the value 18. The formula for the CDF of a geometric distribution, \( F(k) \), at a given point \( k \) is:
+\[ F(k) = 1 - (1 - p)^k \]
+
+Substituting \( p = 0.05 \) and \( k = 18 \):
+\[ F(18) = 1 - (1 - 0.05)^{18} \]
+\[ F(18) = 1 - 0.95^{18} \]
+\[ F(18) = 1 - 0.377353602 \]
+\[ F(18) = 0.622646398 \]
+
+Converting this to a percentile:
+\[ 0.622646398 \times 100 = 62.2646398 \]
+
+Rounding off to one decimal place:
+<answer>62.3</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",70.4,<answer>70.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",70.9,<answer>70.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",70.7,<answer>70.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",70.6,<answer>70.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",71.0,<answer>71.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",71.0,<answer>71.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",71.3,<answer>71.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",70.2,<answer>70.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",72.3,"To calculate the percentile of the value 24.0 within a geometric distribution with a probability of success of 0.05, we need to determine the cumulative distribution function (CDF) up to and including 24. The formula for the CDF of a geometric distribution at value \( k \) is:
+
+\[
+F(k) = 1 - (1 - p)^k
+\]
+
+where \( p \) is the probability of success, and \( k \) is the number of trials (24 in this case).
+
+Given \( p = 0.05 \):
+
+\[
+F(24) = 1 - (1 - 0.05)^{24} = 1 - 0.95^{24}
+\]
+
+Calculating \( 0.95^{24} \):
+
+\[
+0.95^{24} \approx 0.277375
+\]
+
+Therefore,
+
+\[
+F(24) = 1 - 0.277375 \approx 0.722625
+\]
+
+To convert this to a percentile, we multiply by 100:
+
+\[
+0.722625 \times 100 \approx 72.2625
+\]
+
+Rounding to one decimal place,
+
+\[
+\text{Percentile} \approx 72.3
+\]
+
+Thus, the answer is:
+
+<answer>72.3</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",72.3,"To find the percentile of the value 24.0 in a geometric distribution with a probability of success of 0.05, we use the cumulative distribution function (CDF) formula for geometric distributions:
+
+\[ \text{CDF}(k) = 1 - (1 - p)^k \]
+
+Where:
+- \( p \) is the probability of success (0.05 in this case),
+- \( k \) is the number of trials (24 in this case).
+
+Plugging in the values:
+
+\[ \text{CDF}(24) = 1 - (1 - 0.05)^{24} \]
+\[ \text{CDF}(24) = 1 - 0.95^{24} \]
+\[ \text{CDF}(24) = 1 - 0.277258872 \]
+\[ \text{CDF}(24) \approx 0.7227 \]
+
+To convert this to a percentile, we multiply by 100:
+
+\[ \text{Percentile} = 0.7227 \times 100 = 72.27 \]
+
+Thus, the percentile of the value 24.0 is:
+
+<answer>72.3</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",86.2,<answer>86.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",82.9,<answer>82.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",83.7,<answer>83.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",79,"To find the percentile of the value 32.0 within a geometric distribution with a probability of success (p) of 0.05, we first calculate the cumulative distribution function (CDF) for the geometric distribution up to 32 trials.
+
+The formula for the CDF of a geometric distribution up to k trials is:
+\[ CDF(k) = 1 - (1 - p)^k \]
+
+Plugging in the values:
+\[ p = 0.05 \]
+\[ k = 32 \]
+
+\[ CDF(32) = 1 - (1 - 0.05)^{32} \]
+\[ CDF(32) = 1 - 0.95^{32} \]
+\[ CDF(32) = 1 - 0.20950 \approx 0.7905 \]
+
+Converting this to a percentile:
+\[ 0.7905 \times 100 = 79.05 \]
+
+Rounded to a whole number:
+<answer>79</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",83.2,<answer>83.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",83.2,<answer>83.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",83.2,<answer>83.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",82.4,"To find the percentile of the value 32.0 in a Geometric Distribution with a probability of success p = 0.05, we calculate the cumulative distribution function (CDF) for the value 32.0. The formula for the CDF of a geometric distribution is:
+
+\[ P(X \leq k) = 1 - (1 - p)^k \]
+
+where:
+- \( p = 0.05 \) (probability of success)
+- \( k = 32 \) (number of trials)
+
+Plugging in the values:
+
+\[ P(X \leq 32) = 1 - (1 - 0.05)^{32} \]
+\[ P(X \leq 32) = 1 - 0.95^{32} \]
+\[ P(X \leq 32) = 1 - 0.176186 \]
+\[ P(X \leq 32) \approx 0.823814 \]
+
+To convert this to a percentile, multiply by 100:
+
+\[ \text{Percentile} = 0.823814 \times 100 \approx 82.3814 \]
+
+Rounding to the nearest tenth, we get:
+
+<answer>82.4</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",88.5,<answer>88.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",78.9,"To find the percentile of the value 32.0 in a geometric distribution with a probability of success \( p = 0.05 \), we use the cumulative distribution function (CDF) for the geometric distribution.
+
+The CDF \( F(k) \) for a geometric distribution at a point \( k \) (where \( k \) is the number of trials until the first success) is given by:
+\[
+F(k) = 1 - (1 - p)^k
+\]
+
+For \( p = 0.05 \) and \( k = 32 \):
+\[
+F(32) = 1 - (1 - 0.05)^{32}
+\]
+\[
+F(32) = 1 - 0.95^{32}
+\]
+\[
+F(32) = 1 - 0.2107 \approx 0.7893
+\]
+
+To convert this to a percentile, multiply by 100:
+\[
+\text{Percentile} = 0.7893 \times 100 = 78.93
+\]
+
+Rounding to one decimal place, the percentile of 32 in this distribution is approximately:
+<answer>78.9</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",90.5,"To find the percentile of the value 45.0 in a geometric distribution with a probability of success \( p = 0.05 \), we use the cumulative distribution function (CDF). The CDF \( F(k) \) for a geometric distribution at \( k \) is given by:
+
+\[ F(k) = 1 - (1-p)^k \]
+
+For \( p = 0.05 \) and \( k = 45 \):
+
+\[ F(45) = 1 - (1 - 0.05)^{45} \]
+\[ = 1 - 0.95^{45} \]
+\[ = 1 - 0.095 \approx 0.905 \]
+
+To convert this to a percentile:
+
+\[ 0.905 \times 100 = 90.5 \]
+
+Thus, the percentile of 45.0 is:
+<answer>90.5</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",88.0,"To find the percentile of the value 45.0 in a geometric distribution with the probability of success \( p = 0.05 \), we first calculate the cumulative distribution function (CDF) up to 45. The CDF of a geometric distribution for a given value \( k \) is:
+
+\[
+F(k) = 1 - (1-p)^k
+\]
+
+For \( p = 0.05 \) and \( k = 45 \):
+
+\[
+F(45) = 1 - (1 - 0.05)^{45}
+\]
+\[
+F(45) = 1 - 0.95^{45}
+\]
+\[
+F(45) = 1 - 0.12 \approx 0.88
+\]
+
+Thus, the value 45.0 is at the 88th percentile in this distribution.
+
+<answer>88.0</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",95.1,<answer>95.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",90.4,"To find the percentile of the value 45.0 within a geometric distribution with a probability of success (p) of 0.05, we first calculate the cumulative distribution function (CDF) up to that point. The formula for the CDF of a geometric distribution at a point k is:
+
+\[ CDF(k) = 1 - (1-p)^k \]
+
+Where:
+- \( p = 0.05 \)
+- \( k = 45 \)
+
+Plugging in the values, we get:
+
+\[ CDF(45) = 1 - (1 - 0.05)^{45} \]
+\[ CDF(45) = 1 - 0.95^{45} \]
+\[ CDF(45) = 1 - 0.09556 \]
+\[ CDF(45) = 0.90444 \]
+
+Converting this cumulative probability to a percentile (by multiplying by 100):
+
+\[ Percentile = 0.90444 \times 100 = 90.444 \]
+
+Rounded to one decimal place, the percentile is:
+
+<answer>90.4</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",90.4,<answer>90.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",90.5,<answer>90.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",95.5,<answer>95.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",90.5,<answer>90.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",90.6,<answer>90.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",,<answer>99.5</Answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.7,<answer>99.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.01
+  
+Question:
+What is the percentile of 161.0 within the provided distribution?
+Answer:
+<answer>80.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>

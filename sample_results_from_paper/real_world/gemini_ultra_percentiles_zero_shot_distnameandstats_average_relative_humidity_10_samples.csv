@@ -1,0 +1,1981 @@
+prompt,answer,reasoning
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.002,<answer>0.002</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.000,<answer>0.000</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.00,<answer>0.00</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.001,<answer>0.001</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.02,<answer>0.02</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.48,<answer>0.48</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.14,<answer>0.14</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.02,<answer>0.02</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 23.0%?
+Answer:
+",0.02,<answer>0.02</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",10.53,<answer>10.53</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",10.89,<answer>10.89</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",10.83,<answer>10.83</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",4.00,<answer>4.00</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",4.38,<answer>4.38</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",14.67,<answer>14.67</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",11.66,<answer>11.66</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",5.51,<answer>5.51</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",2.95,<answer>2.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 45.0%?
+Answer:
+",10.72,<answer>10.72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",25.77,<answer>25.77</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",14.89,<answer>14.89</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",20.57,<answer>20.57</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",21.07,<answer>21.07</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",11.08,<answer>11.08</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",11.66,<answer>11.66</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",14.45,<answer>14.45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",25.27,<answer>25.27</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 55.0%?
+Answer:
+",12.0,<answer>12.0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",40.45,<answer>40.45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",26.67,<answer>26.67</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",30.69,<answer>30.69</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",39.53,<answer>39.53</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",48,<answer>48</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",16.76,<answer>16.76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",30.53,<answer>30.53</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",31.85,<answer>31.85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 62.0%?
+Answer:
+",44,<answer>44</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",29.18,<answer>29.18</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",55,<answer>55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",33.55,<answer>33.55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",45,<answer>45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",35.12,<answer>35.12</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",49.64,<answer>49.64</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",50.54,<answer>50.54</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",36.71,<answer>36.71</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 67.0%?
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",55,<answer>55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",45,<answer>45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",44,<answer>44</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",44,<answer>44</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",41,<answer>41</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 71.0%?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",56.19,<answer>56.19</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",57.35,<answer>57.35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",57,<answer>57</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",64,<answer>64</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",50.47,<answer>50.47</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",62.27,<answer>62.27</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",72.21,<answer>72.21</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 75.0%?
+Answer:
+",64.91,<answer>64.91</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",46.80,<answer>46.80</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",44,<answer>44</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",69.66,<answer>69.66</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 79.0%?
+Answer:
+",55,<answer>55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",41.59,<answer>41.59</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",71,<answer>71</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",45,<answer>45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",40.08,<answer>40.08</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",40.32,<answer>40.32</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 83.0%?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",45.64,<answer>45.64</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",44.28,<answer>44.28</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",45.87,<answer>45.87</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",46,<answer>46</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",48.01,<answer>48.01</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",45.64,<answer>45.64</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",47.77,<answer>47.77</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",45.59,<answer>45.59</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 88.0%?
+Answer:
+",44.35,<answer>44.35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",98.97,<answer>98.97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",99.11,<answer>99.11</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",99.55,<answer>99.55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",99.47,<answer>99.47</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",98.90,<answer>98.90</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",99.58,<answer>99.58</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",99.68,<answer>99.68</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",99.27,<answer>99.27</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",99.51,<answer>99.51</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average relative humidity value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 89.849 (Shifts the distribution along the x-axis.)
+  Scale: 27.019 (Controls the spread of the distribution.)
+  Skew: -4.939 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an average relative humidity of 96.0%?
+Answer:
+",98,<answer>98</answer>

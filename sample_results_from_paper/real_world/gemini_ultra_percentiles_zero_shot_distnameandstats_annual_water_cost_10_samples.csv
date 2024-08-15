@@ -1,0 +1,1761 @@
+prompt,answer,reasoning
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",3.42,<answer>3.42</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",6.15,<answer>6.15</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",3.39,<answer>3.39</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",3.41,<answer>3.41</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",3.81,<answer>3.81</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",6.74,<answer>6.74</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",6.02,<answer>6.02</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",1.16,<answer>1.16</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",3.44,<answer>3.44</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0?
+Answer:
+",3.39,<answer>3.39</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",12.71,<answer>12.71</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",27.84,<answer>27.84</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",26.42,<answer>26.42</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",3.98,<answer>3.98</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",2.78,<answer>2.78</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",26.42,<answer>26.42</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",2.93,<answer>2.93</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",27.86,<answer>27.86</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0?
+Answer:
+",12.46,<answer>12.46</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",29.44,<answer>29.44</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",6.25,<answer>6.25</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",39.65,<answer>39.65</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",20.55,<answer>20.55</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",32.69,<answer>32.69</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",36.78,<answer>36.78</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",6.67,<answer>6.67</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",24.37,<answer>24.37</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",31.25,<answer>31.25</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0?
+Answer:
+",24.83,<answer>24.83</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",22.76,<answer>22.76</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",34.78,<answer>34.78</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",23.55,<answer>23.55</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",41.2,<answer>41.2</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",33.67,<answer>33.67</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",30.32,<answer>30.32</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",36.26,<answer>36.26</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",27.83,<answer>27.83</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",29.42,<answer>29.42</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0?
+Answer:
+",33.03,<answer>33.03</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",50.4,<answer>50.4</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",42.58,<answer>42.58</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",60.43,<answer>60.43</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",65.16,<answer>65.16</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",45,<answer>45</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",50.69,<answer>50.69</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",46.30,<answer>46.30</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",69,<answer>69</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0?
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.43,<answer>64.43</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.66,<answer>64.66</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.57,<answer>64.57</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.11,<answer>64.11</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.46,<answer>64.46</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.67,<answer>64.67</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.95,<answer>64.95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.92,<answer>64.92</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.38,<answer>64.38</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0?
+Answer:
+",64.35,<answer>64.35</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",66.89,<answer>66.89</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",72.76,<answer>72.76</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",73.49,<answer>73.49</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",78.92,<answer>78.92</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",77.18,<answer>77.18</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0?
+Answer:
+",77.09,<answer>77.09</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",90.95,<answer>90.95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",92,<answer>92</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",95.53,<answer>95.53</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",93.44,<answer>93.44</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0?
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",99.77,<answer>99.77</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",95.47,<answer>95.47</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",97.23,<answer>97.23</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",99.57,<answer>99.57</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",98.45,<answer>98.45</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0?
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.89,<answer>99.89</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.87,<answer>99.87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.97,<answer>99.97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.82,<answer>99.82</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.72,<answer>99.72</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.57,<answer>99.57</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.97,<answer>99.97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.79,<answer>99.79</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the intervals or amounts in a process where changes occur continuously and independently at a constant average rate.
+  Rate: 0.00172 (This corresponds to an average of 581.395 units per interval.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0?
+Answer:
+",99.99,<answer>99.99</answer>

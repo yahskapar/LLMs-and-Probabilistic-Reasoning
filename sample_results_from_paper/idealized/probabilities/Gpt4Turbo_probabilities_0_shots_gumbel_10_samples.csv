@@ -1,0 +1,2001 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.228,<answer>0.228</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.238,<answer>0.238</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.238,<answer>0.238</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.1915,<answer>0.1915</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.228,<answer>0.228</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.4346,<answer>0.4346</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.184,<answer>0.184</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.218,<answer>0.218</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.186,<answer>0.186</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1223.12 and 1513.142?
+Answer:
+",0.183,<answer>0.183</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.636,<answer>0.636</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.6732,<answer>0.6732</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.636,<answer>0.636</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.643,<answer>0.643</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.647,<answer>0.647</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.739,<answer>0.739</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.49,<answer>0.49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.6475,<answer>0.6475</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.693147,<answer>0.693147</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1086.766 and 1668.087?
+Answer:
+",0.636,<answer>0.636</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.9608,<answer>0.9608</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 951.803 and 1838.357?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 819.097 and 2018.875?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 681.062 and 2225.822?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 535.24 and 2469.609?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 380.606 and 2771.887?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 198.919 and 3184.361?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -42.695 and 3816.696?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1000 (Centers the distribution.)
+  Scale: 1000 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between -521.446 and 5655.84?
+Answer:
+",0.98,<answer>0.98</answer>

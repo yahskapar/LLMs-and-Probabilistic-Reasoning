@@ -1,0 +1,1651 @@
+prompt,answer,reasoning
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.005,<answer>0.005</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.00003,<answer>0.00003</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.00003,<answer>0.00003</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.00,<answer>0.00</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.5,<answer>0.5</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.67,<answer>1.67</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.03,<answer>0.03</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.04,<answer>0.04</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.07,<answer>0.07</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.05,<answer>0.05</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",2.33,<answer>2.33</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",3,<answer>3</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",2,<answer>2</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.15,<answer>1.15</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5.75,<answer>5.75</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5.90,<answer>5.90</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",4,<answer>4</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",4.24,<answer>4.24</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12.92,<answer>12.92</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10.45,<answer>10.45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",17.97,<answer>17.97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",19.64,<answer>19.64</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",34,<answer>34</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",36,<answer>36</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",57,<answer>57</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",57,<answer>57</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",58,<answer>58</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",75.50,<answer>75.50</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",89,<answer>89</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",98.66,<answer>98.66</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.31,<answer>99.31</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.88,<answer>99.88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.91,<answer>99.91</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.94,<answer>99.94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.97,<answer>99.97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 754.201
+  Standard Deviation: 505.754
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.96,<answer>99.96</answer>

@@ -1,0 +1,3741 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 70.62 within the provided distribution?
+Answer:
+",1.24,<answer>1.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.01,<answer>12.01</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",10.0,<answer>10.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.0,<answer>12.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.0,<answer>12.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.0,<answer>12.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.0,<answer>12.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.0,<answer>12.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.0,<answer>12.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.0,<answer>12.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.024 within the provided distribution?
+Answer:
+",12.01,<answer>12.01</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.991,<answer>23.991</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 81.965 within the provided distribution?
+Answer:
+",23.99,<answer>23.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.966,<answer>35.966</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.966,<answer>35.966</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.966,<answer>35.966</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.966,<answer>35.966</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.966,<answer>35.966</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.966,<answer>35.966</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.966,<answer>35.966</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.972,<answer>35.972</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.966,<answer>35.966</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.931 within the provided distribution?
+Answer:
+",35.97,<answer>35.97</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",39.9,<answer>39.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",31.79,<answer>31.79</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",39.79,<answer>39.79</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",31.8,<answer>31.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",39.79,<answer>39.79</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",31.8,<answer>31.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",31.82,<answer>31.82</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",31.8,<answer>31.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 93.895 within the provided distribution?
+Answer:
+",29.8,<answer>29.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.9,<answer>39.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",49.96,<answer>49.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 99.923 within the provided distribution?
+Answer:
+",39.8,<answer>39.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",56.0,<answer>56.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.986 within the provided distribution?
+Answer:
+",59.99,<answer>59.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",70.0,<answer>70.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",56.002,<answer>56.002</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",70.0,<answer>70.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",70.0,<answer>70.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",70.0,<answer>70.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",70.0,<answer>70.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",58.9,<answer>58.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",56.0,<answer>56.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",70.002,<answer>70.002</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.004 within the provided distribution?
+Answer:
+",60.002,<answer>60.002</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.1,<answer>80.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.0,<answer>80.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.0,<answer>80.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.0,<answer>80.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.1,<answer>80.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.1,<answer>80.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.0,<answer>80.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.0,<answer>80.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.3,<answer>80.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 118.05 within the provided distribution?
+Answer:
+",80.0,<answer>80.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.996 within the provided distribution?
+Answer:
+",90.0,<answer>90.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.56,<answer>98.56</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.4,<answer>98.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 72 (Minimum value of the distribution.)
+  Max: 149 (Maximum value of the distribution.)
+  
+Question:
+What is the percentile of 125.85 within the provided distribution?
+Answer:
+<answer>70.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 129.391 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>

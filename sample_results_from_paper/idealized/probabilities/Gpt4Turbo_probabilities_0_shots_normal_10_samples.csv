@@ -1,0 +1,1901 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.1596,<answer>0.1596</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.1736,<answer>0.1736</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.1573,<answer>0.1573</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.1596,<answer>0.1596</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.1573,<answer>0.1573</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.164,<answer>0.164</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.1672,<answer>0.1672</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 98.785 and 101.269?
+Answer:
+",0.159,<answer>0.159</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.38292492,<answer>0.38292492</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.355,<answer>0.355</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.3095,<answer>0.3095</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.398,<answer>0.398</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.3497,<answer>0.3497</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.3821,<answer>0.3821</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.3989422804014337,<answer>0.3989422804014337</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.3477,<answer>0.3477</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.557 and 102.526?
+Answer:
+",0.683,<answer>0.683</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.4957,<answer>0.4957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.673,<answer>0.673</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.6700,<answer>0.6700</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.4973,<answer>0.4973</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.4931,<answer>0.4931</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.495,<answer>0.495</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 96.261 and 103.847?
+Answer:
+",0.5359,<answer>0.5359</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.5768,<answer>0.5768</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.4767,<answer>0.4767</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.4933,<answer>0.4933</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.4767,<answer>0.4767</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.4931,<answer>0.4931</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.4772,<answer>0.4772</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.5207,<answer>0.5207</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.4767,<answer>0.4767</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.915 and 105.218?
+Answer:
+",0.671,<answer>0.671</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 93.439 and 106.655?
+Answer:
+",0.668,<answer>0.668</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.6627,<answer>0.6627</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.6664,<answer>0.6664</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.6628,<answer>0.6628</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.6628,<answer>0.6628</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.6745,<answer>0.6745</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.831 and 108.256?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.98 and 110.082?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.759,<answer>0.759</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.955,<answer>0.955</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.955,<answer>0.955</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.8128,<answer>0.8128</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.693 and 112.32?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.9500,<answer>0.9500</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.956,<answer>0.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.6826,<answer>0.6826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.416 and 115.551?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.738 and 123.092?
+Answer:
+",0.96,<answer>0.96</answer>

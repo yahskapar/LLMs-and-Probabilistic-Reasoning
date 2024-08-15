@@ -1,0 +1,3521 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",2.0,<answer>2.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",2.5,<answer>2.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",2.28,<answer>2.28</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",2.28,<answer>2.28</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",2.0,<answer>2.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",2.28,<answer>2.28</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",1.0,<answer>1.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",2.28,<answer>2.28</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 76.607 within the provided distribution?
+Answer:
+",2.3,<answer>2.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",6.7,<answer>6.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",6.68,<answer>6.68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",6.68,<answer>6.68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",4.78,<answer>4.78</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",5.2,<answer>5.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",8.2,<answer>8.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",4.8,<answer>4.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",6.68,<answer>6.68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",4.779,<answer>4.779</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 87.163 within the provided distribution?
+Answer:
+",6.68,<answer>6.68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",16.0,<answer>16.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",15.865,<answer>15.865</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",17.1,<answer>17.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",15.9,<answer>15.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",18.0,<answer>18.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",17.6,<answer>17.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",15.9,<answer>15.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",16.0,<answer>16.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",16.0,<answer>16.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.588 within the provided distribution?
+Answer:
+",14.0,<answer>14.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",24.2,<answer>24.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",30.85,<answer>30.85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",30.85,<answer>30.85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",30.85,<answer>30.85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",27.4,<answer>27.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",29.2,<answer>29.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",22.8,<answer>22.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",29.4,<answer>29.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",22.8,<answer>22.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 94.742 within the provided distribution?
+Answer:
+",30.85,<answer>30.85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",36.0,<answer>36.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",35.0,<answer>35.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",40.13,<answer>40.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",37.0,<answer>37.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",36.0,<answer>36.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",38.1,<answer>38.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",37.0,<answer>37.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",35.0,<answer>35.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",34.1,<answer>34.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 97.454 within the provided distribution?
+Answer:
+",37.1,<answer>37.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.001 within the provided distribution?
+Answer:
+",50.0,<answer>50.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",61.8,<answer>61.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",65.0,<answer>65.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",60.0,<answer>60.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",63.7,<answer>63.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",62.8,<answer>62.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",62.2,<answer>62.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",60.0,<answer>60.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",63.1,<answer>63.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",61.8,<answer>61.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 102.524 within the provided distribution?
+Answer:
+",62.0,<answer>62.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",72.1,<answer>72.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",69.15,<answer>69.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",72.6,<answer>72.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",68.0,<answer>68.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",69.15,<answer>69.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",69.15,<answer>69.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",69.15,<answer>69.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",70.0,<answer>70.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",67.7,<answer>67.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 105.258 within the provided distribution?
+Answer:
+",69.15,<answer>69.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",77.0,<answer>77.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",78.81,<answer>78.81</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",84.13,<answer>84.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",84.1,<answer>84.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",79.0,<answer>79.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",79.0,<answer>79.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",77.0,<answer>77.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",79.4,<answer>79.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",75.0,<answer>75.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 108.412 within the provided distribution?
+Answer:
+",77.3,<answer>77.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",87.7,<answer>87.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",85.13,<answer>85.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",91.8,<answer>91.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",84.13,<answer>84.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",85.1,<answer>85.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",89.4,<answer>89.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",84.13,<answer>84.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",84.13,<answer>84.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",91.1,<answer>91.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 112.843 within the provided distribution?
+Answer:
+",84.13,<answer>84.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",98.7,<answer>98.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",98.5,<answer>98.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",98.6,<answer>98.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 13
+  
+Question:
+What is the percentile of 89.069 within the provided distribution?
+Answer:
+<answer>20.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 100
+  Standard Deviation: 10
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 123.356 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>

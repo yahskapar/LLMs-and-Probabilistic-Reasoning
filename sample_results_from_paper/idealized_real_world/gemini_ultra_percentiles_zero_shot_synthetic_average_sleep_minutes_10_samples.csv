@@ -1,0 +1,1981 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",0.006,<answer>0.006</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",0.009,<answer>0.009</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",1.78,<answer>1.78</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",1.54,<answer>1.54</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",4.74,<answer>4.74</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",1.88,<answer>1.88</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",0.07,<answer>0.07</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 280.833 within the provided distribution?
+Answer:
+",0.4,<answer>0.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",1.22,<answer>1.22</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",1.25,<answer>1.25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",2.57,<answer>2.57</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",1.33,<answer>1.33</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",1.77,<answer>1.77</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",1.83,<answer>1.83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",1.5,<answer>1.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",1.62,<answer>1.62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",9.59,<answer>9.59</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 331.325 within the provided distribution?
+Answer:
+",2.61,<answer>2.61</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",1.92,<answer>1.92</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",12.07,<answer>12.07</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",10.72,<answer>10.72</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",1.16,<answer>1.16</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 354.023 within the provided distribution?
+Answer:
+",15,<answer>15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",29,<answer>29</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",25.73,<answer>25.73</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",29.45,<answer>29.45</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 369.714 within the provided distribution?
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",25.89,<answer>25.89</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",29,<answer>29</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",25.83,<answer>25.83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",21,<answer>21</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 382.807 within the provided distribution?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",30.16,<answer>30.16</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",29,<answer>29</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 394.37 within the provided distribution?
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",28.46,<answer>28.46</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",25.62,<answer>25.62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",19.83,<answer>19.83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 405.83 within the provided distribution?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",41.04,<answer>41.04</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",34,<answer>34</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 417.892 within the provided distribution?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",58,<answer>58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",58,<answer>58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 431.841 within the provided distribution?
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",69.93,<answer>69.93</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",71,<answer>71</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",69,<answer>69</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",70.96,<answer>70.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 450.636 within the provided distribution?
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",92,<answer>92</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",99.38,<answer>99.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",90,<answer>90</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",90,<answer>90</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 493.97 within the provided distribution?
+Answer:
+",96,<answer>96</answer>

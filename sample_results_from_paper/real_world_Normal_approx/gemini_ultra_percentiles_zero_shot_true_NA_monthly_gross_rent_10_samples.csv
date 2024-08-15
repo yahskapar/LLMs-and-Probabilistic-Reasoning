@@ -1,0 +1,1669 @@
+prompt,answer,reasoning
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.1,<answer>0.1</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.2,<answer>0.2</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.03,<answer>0.03</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.03,<answer>0.03</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.07,<answer>0.07</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.003,<answer>0.003</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.88,<answer>0.88</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+13.67
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+14.67
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",11.22,<answer>11.22</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+18
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+20
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+10.96
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+28.29
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30.52,<answer>30.52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",19,<answer>19</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",24.42,<answer>24.42</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",21,<answer>21</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",29,<answer>29</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",29,<answer>29</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30.5,<answer>30.5</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",34.83,<answer>34.83</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",36,<answer>36</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",36,<answer>36</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30.12,<answer>30.12</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",50.77,<answer>50.77</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",50.95,<answer>50.95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",50.93,<answer>50.93</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",51.13,<answer>51.13</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",50.99,<answer>50.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",50.99,<answer>50.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",51,<answer>51</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",51.23,<answer>51.23</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",51.22,<answer>51.22</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",50.80,<answer>50.80</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",69.41,<answer>69.41</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+62
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",66,<answer>66</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",66,<answer>66</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",71,<answer>71</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+72.91
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+78.36
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",72.67,<answer>72.67</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",78.81,<answer>78.81</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",93.32,<answer>93.32</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",91.49,<answer>91.49</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",92.08,<answer>92.08</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.94,<answer>99.94</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.97,<answer>99.97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.92,<answer>99.92</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.9,<answer>99.9</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 1347.261
+  Standard Deviation: 674.234
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.95,<answer>99.95</answer>

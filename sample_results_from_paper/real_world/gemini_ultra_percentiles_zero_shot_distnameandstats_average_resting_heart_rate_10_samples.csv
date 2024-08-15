@@ -1,0 +1,1761 @@
+prompt,answer,reasoning
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",0.04,<answer>0.04</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",0.23,<answer>0.23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",0.13,<answer>0.13</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",0.22,<answer>0.22</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",0.46,<answer>0.46</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",0.02,<answer>0.02</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",1.28,<answer>1.28</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",0.08,<answer>0.08</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 52.286 beats per minute for users of Fitbit devices?
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",6,<answer>6</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",4.89,<answer>4.89</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",5.36,<answer>5.36</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",5.83,<answer>5.83</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",3.76,<answer>3.76</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",4.4,<answer>4.4</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",4.06,<answer>4.06</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",4.99,<answer>4.99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",4.69,<answer>4.69</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 57.838 beats per minute for users of Fitbit devices?
+Answer:
+",4.61,<answer>4.61</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 60.905 beats per minute for users of Fitbit devices?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 63.324 beats per minute for users of Fitbit devices?
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",29,<answer>29</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 65.49 beats per minute for users of Fitbit devices?
+Answer:
+",31,<answer>31</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",48,<answer>48</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",48,<answer>48</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",48,<answer>48</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",48,<answer>48</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",48,<answer>48</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 67.552 beats per minute for users of Fitbit devices?
+Answer:
+",48,<answer>48</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",69,<answer>69</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",64,<answer>64</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",66,<answer>66</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 69.692 beats per minute for users of Fitbit devices?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",82,<answer>82</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",82,<answer>82</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",78,<answer>78</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 71.971 beats per minute for users of Fitbit devices?
+Answer:
+",79,<answer>79</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 74.651 beats per minute for users of Fitbit devices?
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 78.33 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average resting heart rate value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 67.882
+  Standard Deviation: 7.723
+
+
+## Here is your question:
+Question:
+What is the percentile of the average resting heart rate value 85.438 beats per minute for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>

@@ -1,0 +1,1651 @@
+prompt,answer,reasoning
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 7.286 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 13.788 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 19.158 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",19,<answer>19</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 24.212 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",21,<answer>21</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",19,<answer>19</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 29.466 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",34,<answer>34</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",34,<answer>34</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 35.226 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",46,<answer>46</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",46,<answer>46</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",46,<answer>46</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",46,<answer>46</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",46,<answer>46</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 42.0 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",64,<answer>64</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 50.431 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",75,<answer>75</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",75,<answer>75</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",75,<answer>75</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 62.089 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 82.821 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average exercise minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 43.20
+  Standard Deviation: 30.50
+
+
+## Here is your question:
+Question:
+What is the percentile of the average exercise minutes count value 153.72 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>

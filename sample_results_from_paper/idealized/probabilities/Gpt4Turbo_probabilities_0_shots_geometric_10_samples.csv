@@ -1,0 +1,1958 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1841,<answer>0.1841</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1841,<answer>0.1841</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1841,<answer>0.1841</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1848,<answer>0.1848</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1253,<answer>0.1253</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1103,<answer>0.1103</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1841,<answer>0.1841</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1841,<answer>0.1841</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.18407,<answer>0.18407</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 12.0 and 16.0?
+Answer:
+",0.1841,<answer>0.1841</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.5769,<answer>0.5769</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.1841,<answer>0.1841</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.3376,<answer>0.3376</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.3413,<answer>0.3413</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.2585,<answer>0.2585</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.2529,"To solve this problem, we need to use the properties of the geometric distribution and calculate the cumulative probabilities at the points of interest.
+
+The distribution in question is a geometric distribution with a probability of success \( p = 0.05 \).
+
+The probability mass function (PMF) of a geometric distribution is given by:
+\[ P(X = k) = (1-p)^{k-1} \times p \]
+for \( k = 1, 2, 3, \dots \)
+
+The cumulative distribution function (CDF), which gives us the probability that the random variable \( X \) is less than or equal to a certain value \( k \), is given by:
+\[ P(X \leq k) = 1 - (1-p)^k \]
+
+We are asked to find \( P(10 \leq X \leq 18) \). This probability can be calculated using the CDF as follows:
+\[ P(10 \leq X \leq 18) = P(X \leq 18) - P(X < 10) \]
+\[ = P(X \leq 18) - P(X \leq 9) \]
+\[ = [1 - (1-0.05)^{18}] - [1 - (1-0.05)^9] \]
+
+Calculating these values:
+- \( (1 - 0.05)^{18} \approx 0.377353602 \)
+- \( (1 - 0.05)^9 \approx 0.630249409 \)
+
+Thus:
+\[ P(X \leq 18) = 1 - 0.377353602 = 0.622646398 \]
+\[ P(X \leq 9) = 1 - 0.630249409 = 0.369750591 \]
+
+Finally:
+\[ P(10 \leq X \leq 18) = 0.622646398 - 0.369750591 = 0.252895807 \]
+
+Therefore, the probability that a value from this geometric distribution is between 10.0 and 18.0 is approximately 0.2529.
+
+<answer>0.2529</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.235910,"To solve this problem, we need to calculate the probability of the geometric distribution falling between the values of 10.0 and 18.0.
+
+Given:
+- Probability of success (p) = 0.05
+- Distribution Type: Geometric Distribution
+
+The probability mass function (PMF) for a geometric distribution is given by:
+\[ P(X = k) = (1-p)^{k-1} \times p \]
+where \( k \) is the number of trials until the first success.
+
+We need to find \( P(10 \leq X \leq 18) \), which is:
+\[ P(10 \leq X \leq 18) = P(X = 10) + P(X = 11) + ... + P(X = 18) \]
+
+Calculating each term:
+- \( P(X = 10) = (1-0.05)^{10-1} \times 0.05 = 0.95^9 \times 0.05 \approx 0.031940 \)
+- \( P(X = 11) = 0.95^{10} \times 0.05 \approx 0.030343 \)
+- \( P(X = 12) = 0.95^{11} \times 0.05 \approx 0.028826 \)
+- \( P(X = 13) = 0.95^{12} \times 0.05 \approx 0.027384 \)
+- \( P(X = 14) = 0.95^{13} \times 0.05 \approx 0.026015 \)
+- \( P(X = 15) = 0.95^{14} \times 0.05 \approx 0.024714 \)
+- \( P(X = 16) = 0.95^{15} \times 0.05 \approx 0.023379 \)
+- \( P(X = 17) = 0.95^{16} \times 0.05 \approx 0.022210 \)
+- \( P(X = 18) = 0.95^{17} \times 0.05 \approx 0.021099 \)
+
+Summing these probabilities:
+\[ P(10 \leq X \leq 18) \approx 0.031940 + 0.030343 + 0.028826 + 0.027384 + 0.026015 + 0.024714 + 0.023379 + 0.022210 + 0.021099 \approx 0.235910 \]
+
+Therefore, the probability that a value from this geometric distribution is between 10.0 and 18.0 is:
+<answer>0.235910</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.3308,<answer>0.3308</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.4434,<answer>0.4434</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 10.0 and 18.0?
+Answer:
+",0.2863,<answer>0.2863</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.6165,<answer>0.6165</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.6931,<answer>0.6931</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.6483,<answer>0.6483</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.5478,<answer>0.5478</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.5438,<answer>0.5438</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.7872,<answer>0.7872</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.684,<answer>0.684</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.8113,<answer>0.8113</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.6133,<answer>0.6133</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 9.0 and 21.0?
+Answer:
+",0.6428,<answer>0.6428</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.8118,<answer>0.8118</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.8837,<answer>0.8837</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.7735,<answer>0.7735</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.9185,<answer>0.9185</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.7361,<answer>0.7361</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.5681,<answer>0.5681</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.8916,<answer>0.8916</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.7304,<answer>0.7304</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.891,<answer>0.891</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.0 and 24.0?
+Answer:
+",0.8916,<answer>0.8916</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.903,<answer>0.903</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.7302,<answer>0.7302</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.8442,<answer>0.8442</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.9596,<answer>0.9596</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.891,<answer>0.891</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.9192,<answer>0.9192</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",,"<answer>0.891</"">"
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.8647,<answer>0.8647</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.9192,<answer>0.9192</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 6.0 and 27.0?
+Answer:
+",0.8986,<answer>0.8986</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.9562,<answer>0.9562</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.956,<answer>0.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.9576,<answer>0.9576</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.956,<answer>0.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 5.0 and 31.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.9582,<answer>0.9582</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.956,<answer>0.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.956,<answer>0.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.956,<answer>0.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 4.0 and 37.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9564,<answer>0.9564</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9567,<answer>0.9567</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9569,<answer>0.9569</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9565,<answer>0.9565</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.956,<answer>0.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9566,<answer>0.9566</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9568,<answer>0.9568</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.0 and 44.0?
+Answer:
+",0.9563,<answer>0.9563</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.9999,<answer>0.9999</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.9999,<answer>0.9999</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.9745,<answer>0.9745</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.981,<answer>0.981</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.9818,<answer>0.9818</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.9897,<answer>0.9897</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.9562,<answer>0.9562</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.9584,<answer>0.9584</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.99,<answer>0.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 56.0?
+Answer:
+",0.9802,<answer>0.9802</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.99,<answer>0.99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9798,<answer>0.9798</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9876,<answer>0.9876</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9402,<answer>0.9402</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9802,<answer>0.9802</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9802,<answer>0.9802</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9802,<answer>0.9802</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9587,<answer>0.9587</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9812,<answer>0.9812</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 1.0 and 90.0?
+Answer:
+",0.9802,<answer>0.9802</answer>

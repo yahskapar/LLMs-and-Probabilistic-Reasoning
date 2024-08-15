@@ -1,0 +1,1651 @@
+prompt,answer,reasoning
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.04,<answer>0.04</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.2,<answer>0.2</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",2,<answer>2</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1,<answer>1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.17,<answer>1.17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.1,<answer>0.1</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.5,<answer>0.5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",6,<answer>6</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",7,<answer>7</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",66,<answer>66</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",78,<answer>78</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",75,<answer>75</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",75,<answer>75</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",78,<answer>78</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",82,<answer>82</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",82,<answer>82</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",82,<answer>82</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",82,<answer>82</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",82,<answer>82</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",91,<answer>91</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",91,<answer>91</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",90,<answer>90</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",92,<answer>92</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",92,<answer>92</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 392.62
+  Standard Deviation: 45.97
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>

@@ -1,0 +1,3741 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",0.1,<answer>0.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",1.1,<answer>1.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",1.3,<answer>1.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",0.2,<answer>0.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",0.3,<answer>0.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",1.0,<answer>1.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",0.7,<answer>0.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",1.0,<answer>1.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",0.2,<answer>0.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.943 within the provided distribution?
+Answer:
+",0.1,<answer>0.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",6.8,<answer>6.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",9.1,<answer>9.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",8.4,<answer>8.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",9.8,<answer>9.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",10.8,<answer>10.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",8.4,<answer>8.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",,<answer>8.4</aanswer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",11.2,<answer>11.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",5.5,<answer>5.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.566 within the provided distribution?
+Answer:
+",9.1,<answer>9.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",16.9,<answer>16.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",27.8,<answer>27.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",14.1,<answer>14.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",19.7,<answer>19.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",10.0,<answer>10.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",18.4,<answer>18.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",23.0,<answer>23.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",20.6,<answer>20.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",17.1,<answer>17.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 16.348 within the provided distribution?
+Answer:
+",15.7,<answer>15.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",10.3,<answer>10.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",17.7,<answer>17.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",17.18,<answer>17.18</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",12.7,<answer>12.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",27.65,<answer>27.65</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",14.0,<answer>14.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",11.2,<answer>11.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",14.3,<answer>14.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",16.22,<answer>16.22</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 21.834 within the provided distribution?
+Answer:
+",11.3,<answer>11.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",21.1,<answer>21.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",20.9,<answer>20.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",25.0,<answer>25.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",20.3,<answer>20.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",24.1,<answer>24.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",29.1,<answer>29.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",19.4,<answer>19.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",29.4,<answer>29.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",20.1,<answer>20.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 27.433 within the provided distribution?
+Answer:
+",20.3,<answer>20.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",27.6,<answer>27.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",26.85,<answer>26.85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",28.26,<answer>28.26</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",32.4,<answer>32.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",38.2,<answer>38.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",35.4,<answer>35.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",35.6,<answer>35.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",20.0,<answer>20.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",33.68,<answer>33.68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 33.51 within the provided distribution?
+Answer:
+",36.6,<answer>36.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",53.9,<answer>53.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",47.6,<answer>47.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",43.7,<answer>43.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",47.5,<answer>47.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",27.4,<answer>27.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",47.7,<answer>47.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",47.7,<answer>47.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",27.55,<answer>27.55</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",42.8,<answer>42.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 40.353 within the provided distribution?
+Answer:
+",42.0,<answer>42.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",44.5,<answer>44.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",53.4,<answer>53.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",41.3,<answer>41.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",49.1,<answer>49.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",44.3,<answer>44.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",55.3,<answer>55.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",43.2,<answer>43.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",62.0,<answer>62.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",52.0,<answer>52.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 48.846 within the provided distribution?
+Answer:
+",47.3,<answer>47.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",61.8,<answer>61.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",72.0,<answer>72.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",73.0,<answer>73.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",70.0,<answer>70.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",44.2,<answer>44.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",73.0,<answer>73.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",43.0,<answer>43.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",67.57,<answer>67.57</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",63.0,<answer>63.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 59.974 within the provided distribution?
+Answer:
+",61.6,<answer>61.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",66.5,<answer>66.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",82.2,<answer>82.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",67.1,<answer>67.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",76.6,<answer>76.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",62.7,<answer>62.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",82.7,<answer>82.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",83.25,<answer>83.25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",73.5,<answer>73.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",65.0,<answer>65.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 77.789 within the provided distribution?
+Answer:
+",67.6,<answer>67.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",91.9,<answer>91.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",96.5,<answer>96.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",74.6,<answer>74.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",97.8,<answer>97.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",95.4,<answer>95.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",67.8,<answer>67.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",96.3,<answer>96.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",61.4,<answer>61.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",95.7,<answer>95.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 1.597 (Controls the skewness of the distribution.)
+  Scale: 16 (Controls the spread of the distribution.)
+  
+Question:
+What is the percentile of 1.123 within the provided distribution?
+Answer:
+<answer>1.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 132.998 within the provided distribution?
+Answer:
+",94.5,<answer>94.5</answer>

@@ -1,0 +1,1651 @@
+prompt,answer,reasoning
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.2,<answer>0.2</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.001,<answer>0.001</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.69,<answer>1.69</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.13,<answer>0.13</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.34,<answer>0.34</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.5,<answer>1.5</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",2,<answer>2</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.03,<answer>1.03</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.04,<answer>0.04</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",6,<answer>6</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",7,<answer>7</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",7,<answer>7</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",9.85,<answer>9.85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",7,<answer>7</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",15,<answer>15</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",19,<answer>19</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",19.15,<answer>19.15</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",16,<answer>16</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",21,<answer>21</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",34,<answer>34</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",59.87,<answer>59.87</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",66,<answer>66</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",59.87,<answer>59.87</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",59.87,<answer>59.87</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",75,<answer>75</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",78,<answer>78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",89,<answer>89</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",91,<answer>91</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.93,<answer>99.93</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.97,<answer>99.97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.9,<answer>99.9</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 3.303
+  Standard Deviation: 1.723
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.99,<answer>99.99</answer>

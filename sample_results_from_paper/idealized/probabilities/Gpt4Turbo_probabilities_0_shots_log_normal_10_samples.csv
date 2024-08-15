@@ -1,0 +1,2101 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0035,<answer>0.0035</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0113,<answer>0.0113</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0119,<answer>0.0119</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0296,<answer>0.0296</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0021,<answer>0.0021</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0115,<answer>0.0115</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0131,<answer>0.0131</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0119,<answer>0.0119</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0139,<answer>0.0139</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.38 and 58.175?
+Answer:
+",0.0105,<answer>0.0105</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.0187,<answer>0.0187</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.037,<answer>0.037</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.016,<answer>0.016</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.014,<answer>0.014</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.0842,<answer>0.0842</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.0104,<answer>0.0104</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.0161,<answer>0.0161</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.0198,<answer>0.0198</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 48.321 and 61.948?
+Answer:
+",0.0106,<answer>0.0106</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.136,<answer>0.136</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.08076,<answer>0.08076</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.1587,<answer>0.1587</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.0808,<answer>0.0808</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 45.288 and 66.178?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.154,<answer>0.154</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.1816,<answer>0.1816</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.276,<answer>0.276</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.2026,<answer>0.2026</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.2251,<answer>0.2251</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.1548,<answer>0.1548</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.1075,<answer>0.1075</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.1573,<answer>0.1573</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.261,<answer>0.261</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 42.342 and 70.874?
+Answer:
+",0.1915,<answer>0.1915</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.1811,<answer>0.1811</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.1587,<answer>0.1587</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.1817,<answer>0.1817</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.426,<answer>0.426</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.2852,<answer>0.2852</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.286,<answer>0.286</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.244,<answer>0.244</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.234,<answer>0.234</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 39.329 and 76.155?
+Answer:
+",0.285,<answer>0.285</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.2172,<answer>0.2172</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.285,<answer>0.285</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.202,<answer>0.202</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.3829,<answer>0.3829</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.174,<answer>0.174</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.259,<answer>0.259</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.185,<answer>0.185</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.426,<answer>0.426</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.285,<answer>0.285</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 36.291 and 82.499?
+Answer:
+",0.244,<answer>0.244</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.504,<answer>0.504</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.208,<answer>0.208</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.4819,<answer>0.4819</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.4816,<answer>0.4816</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.1814,<answer>0.1814</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.4235,<answer>0.4235</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.3826,<answer>0.3826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.273,<answer>0.273</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.318,<answer>0.318</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 33.082 and 90.385?
+Answer:
+",0.436,<answer>0.436</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.381,<answer>0.381</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.1818,<answer>0.1818</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.3829,<answer>0.3829</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.441,<answer>0.441</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.441,<answer>0.441</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.556,<answer>0.556</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.4235,<answer>0.4235</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 29.507 and 101.091?
+Answer:
+",0.7357,<answer>0.7357</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.5,<answer>0.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.598,<answer>0.598</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.8664,<answer>0.8664</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.736,<answer>0.736</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 25.048 and 118.814?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.57,<answer>0.57</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.954,<answer>0.954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.932,<answer>0.932</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 4.0
+  Log Sigma (sigma): 0.5
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 17.062 and 173.23?
+Answer:
+",0.98,<answer>0.98</answer>

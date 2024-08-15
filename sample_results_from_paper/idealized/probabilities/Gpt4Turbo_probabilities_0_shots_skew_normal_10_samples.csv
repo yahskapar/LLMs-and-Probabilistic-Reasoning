@@ -1,0 +1,2101 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.0106,<answer>0.0106</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.011,<answer>0.011</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.011,<answer>0.011</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.0039,<answer>0.0039</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.0026,<answer>0.0026</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.0133,<answer>0.0133</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.0302,<answer>0.0302</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.0124,<answer>0.0124</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.0228,<answer>0.0228</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 92.455 and 93.996?
+Answer:
+",0.0099,<answer>0.0099</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.098,<answer>0.098</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.1574,<answer>0.1574</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.1046,<answer>0.1046</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.148,<answer>0.148</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.1685,<answer>0.1685</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.0806,<answer>0.0806</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.136,<answer>0.136</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.1359,<answer>0.1359</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.047,<answer>0.047</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.611 and 94.7?
+Answer:
+",0.155,<answer>0.155</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.318,<answer>0.318</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.2173,<answer>0.2173</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.308,<answer>0.308</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.248,<answer>0.248</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.2228,<answer>0.2228</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.157,<answer>0.157</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.273,<answer>0.273</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.261,<answer>0.261</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.2296,<answer>0.2296</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 90.719 and 95.403?
+Answer:
+",0.1576,<answer>0.1576</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.396,<answer>0.396</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.4811,<answer>0.4811</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.301,<answer>0.301</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.324,<answer>0.324</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.396,<answer>0.396</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.3071,<answer>0.3071</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.408,<answer>0.408</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.481,<answer>0.481</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.422,<answer>0.422</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 89.764 and 96.075?
+Answer:
+",0.194,<answer>0.194</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.341,<answer>0.341</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.3821,<answer>0.3821</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.391,<answer>0.391</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.668,<answer>0.668</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.406,<answer>0.406</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.3085,<answer>0.3085</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.4361,<answer>0.4361</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.455,<answer>0.455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.344,<answer>0.344</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.645 and 96.726?
+Answer:
+",0.4339,<answer>0.4339</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.681,<answer>0.681</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.415,<answer>0.415</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.432,<answer>0.432</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.412,<answer>0.412</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.8112,<answer>0.8112</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.6172,<answer>0.6172</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.487,<answer>0.487</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.398,<answer>0.398</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 87.41 and 97.373?
+Answer:
+",0.481,<answer>0.481</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.464,<answer>0.464</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.468,<answer>0.468</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.407,<answer>0.407</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.479,<answer>0.479</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.383,<answer>0.383</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.481,<answer>0.481</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.4772,<answer>0.4772</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.674,<answer>0.674</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.734,<answer>0.734</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.914 and 98.019?
+Answer:
+",0.468,<answer>0.468</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.479,<answer>0.479</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.479,<answer>0.479</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.477,<answer>0.477</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.4772,<answer>0.4772</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.754,<answer>0.754</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.4772,<answer>0.4772</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.4772,<answer>0.4772</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.479,<answer>0.479</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.475,<answer>0.475</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 84.0 and 98.689?
+Answer:
+",0.736,<answer>0.736</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.48,<answer>0.48</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.442,<answer>0.442</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.479,<answer>0.479</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.49,<answer>0.49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.392,<answer>0.392</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.441,<answer>0.441</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.475,<answer>0.475</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.48,<answer>0.48</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.3936,<answer>0.3936</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 81.205 and 99.439?
+Answer:
+",0.47,<answer>0.47</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.49,<answer>0.49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.586,<answer>0.586</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.47,<answer>0.47</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.477,<answer>0.477</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.468,<answer>0.468</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.475,<answer>0.475</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.475,<answer>0.475</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.5,<answer>0.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.477,<answer>0.477</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 100 (Shifts the distribution along the x-axis.)
+  Scale: 10 (Controls the spread of the distribution.)
+  Skew: -10 (Determines the direction and degree of skewness.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 74.442 and 100.795?
+Answer:
+",0.479,<answer>0.479</answer>

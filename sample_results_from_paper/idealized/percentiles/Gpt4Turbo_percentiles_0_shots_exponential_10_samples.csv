@@ -1,0 +1,2464 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.58,<answer>9.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.58,<answer>9.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.58,<answer>9.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",1,"To find the percentile of the value 1.042 in an exponential distribution with a rate of 0.01, we first calculate the cumulative distribution function (CDF) for that value.
+
+The CDF formula for the exponential distribution is:
+\[ F(x) = 1 - e^{-\lambda x} \]
+where \( \lambda \) is the rate (0.01 in this case), and \( x \) is the value (1.042).
+
+Plugging in the values:
+\[ F(1.042) = 1 - e^{-0.01 \times 1.042} \]
+\[ F(1.042) = 1 - e^{-0.01042} \]
+\[ F(1.042) = 1 - 0.98964 \] (approximately)
+\[ F(1.042) = 0.01036 \]
+
+To convert this to a percentile, multiply by 100:
+\[ \text{Percentile} = 0.01036 \times 100 \]
+\[ \text{Percentile} = 1.036 \]
+
+Rounding to a whole number, the percentile rank of 1.042 is approximately:
+
+<answer>1</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.58,<answer>9.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.58,<answer>9.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.58,<answer>9.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.58,<answer>9.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.58,<answer>9.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.042 within the provided distribution?
+Answer:
+",9.57,<answer>9.57</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",63.21,"```xml
+<answer>63.21</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",9.94,"To find the percentile of the value 10.437 in an exponential distribution with a rate (λ) of 0.01, we use the cumulative distribution function (CDF) for exponential distributions. The CDF is given by:
+
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+Plugging in the values:
+
+\[ F(10.437) = 1 - e^{-0.01 \times 10.437} \]
+
+\[ F(10.437) = 1 - e^{-0.10437} \]
+
+\[ F(10.437) = 1 - 0.9006 \] approximately
+
+\[ F(10.437) = 0.0994 \]
+
+To express this as a percentile:
+
+\[ Percentile = 0.0994 \times 100 = 9.94 \]
+
+Thus, the percentile of the value 10.437 within this distribution is approximately:
+
+<answer>9.94</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",63.21,"```xml
+<answer>63.21</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",63.21,"```xml
+<answer>63.21</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",9.94,"To find the percentile of the value 10.437 in an exponential distribution with a rate of 0.01, we first calculate the cumulative distribution function (CDF). The CDF of the exponential distribution is defined as:
+
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+Where:
+- \( \lambda \) (lambda) is the rate parameter, which is 0.01 for this distribution.
+- \( x \) is the value for which we want to find the percentile.
+
+Substituting the given values:
+
+\[ F(10.437) = 1 - e^{-0.01 \times 10.437} \]
+
+\[ F(10.437) = 1 - e^{-0.10437} \]
+
+\[ F(10.437) = 1 - 0.9006 \approx 0.0994 \]
+
+To convert this to a percentile:
+
+\[ 0.0994 \times 100 = 9.94 \]
+
+Thus, the percentile of the value 10.437 within this exponential distribution is approximately 9.94. Therefore, the answer is:
+
+<answer>9.94</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",10,"To find the percentile of the value 10.437 in an exponential distribution with a rate of 0.01, we first need to calculate the cumulative distribution function (CDF) for the exponential distribution at this value.
+
+The CDF of an exponential distribution with rate λ (lambda) at a value x is given by:
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+Here, λ = 0.01 and x = 10.437. Plugging in these values:
+\[ F(10.437) = 1 - e^{-0.01 \times 10.437} \]
+
+\[ F(10.437) = 1 - e^{-0.10437} \]
+
+\[ F(10.437) = 1 - 0.9006 \]  (approximately)
+
+\[ F(10.437) = 0.0994 \]
+
+To convert this to a percentile:
+\[ Percentile = F(10.437) \times 100 \]
+
+\[ Percentile = 0.0994 \times 100 = 9.94 \]
+
+Rounding this to a whole number:
+<answer>10</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",9.94,"To find the percentile of the value 10.437 in an exponential distribution with a rate of 0.01, we first calculate the cumulative distribution function (CDF) for that value.
+
+The formula for the CDF of the exponential distribution is:
+\[ F(x) = 1 - e^{-\lambda x} \]
+where \( \lambda \) is the rate parameter (0.01 in this case), and \( x \) is the value for which we want to find the percentile (10.437).
+
+Plugging in the values:
+\[ F(10.437) = 1 - e^{-0.01 \times 10.437} = 1 - e^{-0.10437} \]
+
+Calculating \( e^{-0.10437} \):
+\[ e^{-0.10437} \approx 0.9006 \]
+
+So,
+\[ F(10.437) = 1 - 0.9006 = 0.0994 \]
+
+To express this as a percentile:
+\[ 0.0994 \times 100 = 9.94 \]
+
+<answer>9.94</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",63.21,"```xml
+<answer>63.21</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",9.94,"To find the percentile of the value 10.437 in an exponential distribution with a rate (λ) of 0.01, we first calculate the cumulative distribution function (CDF) for the exponential distribution. The formula for the CDF of the exponential distribution is:
+
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+Where:
+- \( \lambda \) is the rate parameter (0.01 in this case)
+- \( x \) is the value for which we are calculating the CDF (10.437 in this case)
+
+Plugging in the values:
+
+\[ F(10.437) = 1 - e^{-0.01 \times 10.437} \]
+\[ F(10.437) = 1 - e^{-0.10437} \]
+\[ F(10.437) = 1 - 0.9006 \approx 0.0994 \]
+
+To find the percentile, we convert the CDF value to a percentage:
+
+\[ \text{Percentile} = F(10.437) \times 100 \]
+\[ \text{Percentile} = 0.0994 \times 100 \]
+\[ \text{Percentile} = 9.94 \]
+
+Thus, the percentile of the value 10.437 within this exponential distribution is approximately:
+
+<answer>9.94</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.437 within the provided distribution?
+Answer:
+",9.94,"To find the percentile of the value 10.437 in an exponential distribution with a rate of 0.01, we use the formula for the cumulative distribution function (CDF) of the exponential distribution:
+
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+Where:
+- \( \lambda \) is the rate parameter (0.01 in this case)
+- \( x \) is the value for which we want to calculate the percentile (10.437)
+
+Plugging in the values, we have:
+
+\[ F(10.437) = 1 - e^{-0.01 \times 10.437} \]
+\[ F(10.437) = 1 - e^{-0.10437} \]
+\[ F(10.437) = 1 - 0.9006 \approx 0.0994 \]
+
+To convert this to a percentile, we multiply by 100:
+
+\[ \text{Percentile} = 0.0994 \times 100 = 9.94 \]
+
+Therefore, the percentile of the value 10.437 within the exponential distribution with a rate of 0.01 is:
+
+<answer>9.94</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",79.9,<answer>79.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",78,<answer>78</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",78.92,<answer>78.92</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",79.85,<answer>79.85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",80.05,<answer>80.05</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 22.115 within the provided distribution?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",96.25,<answer>96.25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",97.41,<answer>97.41</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",96.479,<answer>96.479</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",96.62,<answer>96.62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",29.9,"To find the percentile of the value 35.554 in an exponential distribution with a rate (λ) of 0.01, we use the cumulative distribution function (CDF) for the exponential distribution. The CDF is given by:
+
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+Plugging in the values:
+\[ \lambda = 0.01 \]
+\[ x = 35.554 \]
+
+\[ F(35.554) = 1 - e^{-0.01 \times 35.554} \]
+\[ F(35.554) = 1 - e^{-0.35554} \]
+\[ F(35.554) = 1 - 0.701 \approx 0.299 \]
+
+To express this CDF value as a percentile:
+\[ 0.299 \times 100 = 29.9 \]
+
+Thus, the value 35.554 is approximately at the 29.9th percentile of this distribution.
+
+<answer>29.9</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",97.93,<answer>97.93</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",96.63,<answer>96.63</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",97.13,<answer>97.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",96.095,<answer>96.095</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 35.554 within the provided distribution?
+Answer:
+",99.38,<answer>99.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",39.3476,<answer>39.3476</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",39.347,<answer>39.347</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",39.347,<answer>39.347</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",60.651,<answer>60.651</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",39.346,<answer>39.346</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",39.347,<answer>39.347</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",39.3476,<answer>39.3476</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",60.65,<answer>60.65</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",39.347,<answer>39.347</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 50.939 within the provided distribution?
+Answer:
+",39.943,"To find the percentile of the value 50.939 in an exponential distribution with a rate (λ) of 0.01, we first calculate the cumulative distribution function (CDF) for this value.
+
+The CDF of an exponential distribution is given by:
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+For λ = 0.01 and x = 50.939:
+\[ F(50.939) = 1 - e^{-0.01 \times 50.939} \]
+\[ F(50.939) = 1 - e^{-0.50939} \]
+\[ F(50.939) = 1 - 0.60057 \approx 0.39943 \]
+
+To convert this to a percentile:
+\[ 0.39943 \times 100 = 39.943 \]
+
+Thus, the percentile of the value 50.939 within this distribution is approximately:
+<answer>39.943</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,"```xml
+<answer>50</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 69.012 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",96.67,<answer>96.67</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63.212,<answer>63.212</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63.212,"```xml
+<answer>63.212</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63.21,<answer>63.21</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63.21,<answer>63.21</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63.21,<answer>63.21</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63.212,<answer>63.212</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63.21,<answer>63.21</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 91.281 within the provided distribution?
+Answer:
+",63.212,<answer>63.212</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",70.052,<answer>70.052</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",70.713,<answer>70.713</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",69.92,"To find the percentile of the value 120.101 in an exponential distribution with a rate (λ) of 0.01, we use the cumulative distribution function (CDF) for exponential distributions. The formula for the CDF is:
+
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+Plugging in the given values:
+
+\[ F(120.101) = 1 - e^{-0.01 \times 120.101} \]
+\[ = 1 - e^{-1.20101} \]
+\[ = 1 - e^{-1.20101} \]
+\[ = 1 - 0.3008 \approx 0.6992 \]
+
+To convert to a percentile, multiply by 100:
+
+\[ 0.6992 \times 100 = 69.92 \]
+
+Thus, the value 120.101 is approximately at the 69.92nd percentile in this distribution.
+
+<answer>69.92</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",69.928,"To find the percentile of the value 120.101 in an exponential distribution with a rate of 0.01, we use the cumulative distribution function (CDF) formula for exponential distribution:
+
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+where \( \lambda \) is the rate parameter (0.01 in this case), and \( x \) is the value for which we want to find the percentile (120.101).
+
+Plugging in the values:
+
+\[ F(120.101) = 1 - e^{-0.01 \times 120.101} \]
+\[ F(120.101) = 1 - e^{-1.20101} \]
+\[ F(120.101) = 1 - e^{-1.20101} \approx 1 - 0.30072 \]
+\[ F(120.101) = 0.69928 \]
+
+To convert this to a percentile:
+\[ 0.69928 \times 100 = 69.928 \]
+
+Therefore, the percentile of the value 120.101 within this exponential distribution is approximately:
+<answer>69.928</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",70,"To find the percentile of the value 120.101 in an exponential distribution with a rate of 0.01, we first calculate the cumulative distribution function (CDF) at 120.101.
+
+The formula for the CDF of the exponential distribution is:
+\[ F(x) = 1 - e^{-\lambda x} \]
+where \( \lambda \) is the rate parameter, and \( x \) is the value for which we are calculating the CDF.
+
+Given:
+\[ \lambda = 0.01 \]
+\[ x = 120.101 \]
+
+Plugging in the values:
+\[ F(120.101) = 1 - e^{-0.01 \times 120.101} \]
+\[ = 1 - e^{-1.20101} \]
+\[ = 1 - e^{-1.20101} \]
+\[ \approx 1 - 0.30079 \]
+\[ \approx 0.69921 \]
+
+To convert this to a percentile, multiply by 100:
+\[ 0.69921 \times 100 \approx 69.921 \]
+
+Rounded to the nearest integer, the percentile of the value 120.101 within the exponential distribution is:
+<answer>70</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",70.185,<answer>70.185</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",70.472,<answer>70.472</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",70.093,<answer>70.093</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",70.065,<answer>70.065</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 120.101 within the provided distribution?
+Answer:
+",70,"To find the percentile of the value \( x = 120.101 \) in an exponential distribution with a rate \( \lambda = 0.01 \), we use the cumulative distribution function (CDF) of the exponential distribution.
+
+The formula for the CDF of an exponential distribution is:
+\[ F(x) = 1 - e^{-\lambda x} \]
+
+Substituting \( \lambda = 0.01 \) and \( x = 120.101 \):
+\[ F(120.101) = 1 - e^{-0.01 \times 120.101} \]
+\[ F(120.101) = 1 - e^{-1.20101} \]
+\[ F(120.101) = 1 - e^{-1.20101} \approx 1 - 0.30079 \]
+\[ F(120.101) \approx 0.69921 \]
+
+Converting this to a percentile:
+\[ 0.69921 \times 100 = 69.921 \]
+
+Rounding to the nearest whole number:
+<answer>70</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",82.3,<answer>82.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",83.238,<answer>83.238</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",82.1,<answer>82.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 160.866 within the provided distribution?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",98.63,"```xml
+<answer>98.63</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",99.084,"```xml
+<answer>99.084</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",95.83,"```xml
+<answer>95.83</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",77.677,<answer>77.677</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",99.006,<answer>99.006</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",93.038,"```xml
+<answer>93.038</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",95.767,<answer>95.767</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 230.728 within the provided distribution?
+Answer:
+",97.9,"```xml
+<answer>97.9</answer>
+```"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Exponential Distribution
+  Characteristics: Models the time between events in a process where events occur continuously and independently at a constant average rate.
+  Rate: 0.01 (The average number of events per unit time is 100.00.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 459.366 within the provided distribution?
+Answer:
+",95,<answer>95</answer>

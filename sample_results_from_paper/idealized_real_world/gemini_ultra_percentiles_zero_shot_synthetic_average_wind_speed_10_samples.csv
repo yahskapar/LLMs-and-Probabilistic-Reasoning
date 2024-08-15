@@ -1,0 +1,1981 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",0.3,<answer>0.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",1.38,<answer>1.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",1.13,<answer>1.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",0.00,<answer>0.00</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 0.5 within the provided distribution?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",12.41,<answer>12.41</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",12.54,<answer>12.54</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",11.21,<answer>11.21</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",11.19,<answer>11.19</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",5.38,<answer>5.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",11.34,<answer>11.34</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",10.74,<answer>10.74</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.3 within the provided distribution?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",45,<answer>45</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",59.87,<answer>59.87</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",58,<answer>58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",42.51,<answer>42.51</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.8 within the provided distribution?
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",45,<answer>45</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",49,<answer>49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",59.87,<answer>59.87</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",51,<answer>51</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.2 within the provided distribution?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",66,<answer>66</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",41,<answer>41</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 2.6 within the provided distribution?
+Answer:
+",51,<answer>51</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",59.94,<answer>59.94</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",55,<answer>55</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",69.06,<answer>69.06</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",44,<answer>44</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",69.65,<answer>69.65</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",71,<answer>71</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",64,<answer>64</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",66,<answer>66</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",51,<answer>51</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.5 within the provided distribution?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",64,<answer>64</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",49,<answer>49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",55,<answer>55</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.0 within the provided distribution?
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",50.27,<answer>50.27</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",50.29,<answer>50.29</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",50.00,<answer>50.00</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",49,<answer>49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",50.08,<answer>50.08</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",50.59,<answer>50.59</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",49,<answer>49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 4.7 within the provided distribution?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",49,<answer>49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",66,<answer>66</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",49,<answer>49</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.7 within the provided distribution?
+Answer:
+",57,<answer>57</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Consider the following distribution:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of the value 8.2 within the provided distribution?
+Answer:
+",82,<answer>82</answer>

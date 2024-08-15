@@ -1,0 +1,1871 @@
+prompt,answer,reasoning
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",6.55,<answer>6.55</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",4.09,<answer>4.09</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",0.00,<answer>0.00</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",0.00,<answer>0.00</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",1.11,<answer>1.11</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $331.0?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",27.94,<answer>27.94</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",12.78,<answer>12.78</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",18.06,<answer>18.06</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",15.54,<answer>15.54</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",14.33,<answer>14.33</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",13.91,<answer>13.91</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",14.79,<answer>14.79</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",16.26,<answer>16.26</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $666.0?
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",31,<answer>31</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",31.45,<answer>31.45</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",25.43,<answer>25.43</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",29.07,<answer>29.07</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $813.0?
+Answer:
+",17.3,<answer>17.3</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",34,<answer>34</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",46,<answer>46</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",40.26,<answer>40.26</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",46,<answer>46</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",45,<answer>45</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",41,<answer>41</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $937.0?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.17,<answer>50.17</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.14,<answer>50.14</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.1,<answer>50.1</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.07,<answer>50.07</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.1,<answer>50.1</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.25,<answer>50.25</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.29,<answer>50.29</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.56,<answer>50.56</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.09,<answer>50.09</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1055.0?
+Answer:
+",50.17,<answer>50.17</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",45,<answer>45</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",58,<answer>58</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",59.75,<answer>59.75</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1187.0?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",67.96,<answer>67.96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",66.7,<answer>66.7</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",72.79,<answer>72.79</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",66.31,<answer>66.31</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",69,<answer>69</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",71,<answer>71</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",71.39,<answer>71.39</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",68.13,<answer>68.13</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",78.45,<answer>78.45</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1355.0?
+Answer:
+",74.1,<answer>74.1</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",58,<answer>58</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",75,<answer>75</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",75,<answer>75</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",80.43,<answer>80.43</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",75.47,<answer>75.47</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",80.40,<answer>80.40</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1548.0?
+Answer:
+",75.69,<answer>75.69</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",92.14,<answer>92.14</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",84.96,<answer>84.96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",87.53,<answer>87.53</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",89.08,<answer>89.08</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",83.42,<answer>83.42</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",89.95,<answer>89.95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",88.43,<answer>88.43</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",83.79,<answer>83.79</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $1800.0?
+Answer:
+",87.92,<answer>87.92</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",98.34,<answer>98.34</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",94.21,<answer>94.21</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",97.72,<answer>97.72</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",99.22,<answer>99.22</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",98.83,<answer>98.83</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",98.97,<answer>98.97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",98.3,<answer>98.3</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",98.31,<answer>98.31</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",99.01,<answer>99.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $2235.0?
+Answer:
+",97.75,<answer>97.75</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.78,<answer>99.78</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given monthly gross rent within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Gumbel Distribution
+  Characteristics: Often used to model the distribution of extreme values.
+  Location: 1053.066 (Centers the distribution.)
+  Scale: 488.890 (Controls the spread of the distribution.)
+
+
+## Here is your question:
+Question:
+What is the percentile of a monthly gross rent of $3635.0?
+Answer:
+",99.97,<answer>99.97</answer>

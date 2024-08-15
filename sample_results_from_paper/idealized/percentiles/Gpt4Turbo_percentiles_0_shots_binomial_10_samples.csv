@@ -1,0 +1,2311 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",12.62,<answer>12.62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",4.0,<answer>4.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",8.08,<answer>8.08</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",10.9,<answer>10.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",5.8,<answer>5.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",6.68,<answer>6.68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",3.3,<answer>3.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",7.1,<answer>7.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 463.0 within the provided distribution?
+Answer:
+",2.28,<answer>2.28</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",10.6,<answer>10.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",19.2,<answer>19.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",10.7,<answer>10.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",9.1,<answer>9.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",17.73,<answer>17.73</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",8.15,<answer>8.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",10.7,<answer>10.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",10.12,<answer>10.12</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 480.0 within the provided distribution?
+Answer:
+",8.1,<answer>8.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",20.6,<answer>20.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",25.6,<answer>25.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",35.5,<answer>35.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",8.6,<answer>8.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 487.0 within the provided distribution?
+Answer:
+",28.2,<answer>28.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",18.7,<answer>18.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",36,<answer>36</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 492.0 within the provided distribution?
+Answer:
+",22.75,<answer>22.75</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 496.0 within the provided distribution?
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 500.0 within the provided distribution?
+Answer:
+",50,<answer>50</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",62.3,<answer>62.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",62.7,<answer>62.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",57.9,<answer>57.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",57.9,<answer>57.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",69.15,<answer>69.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 504.0 within the provided distribution?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",62.79,<answer>62.79</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",62.3,<answer>62.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",56.9,<answer>56.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",62.3,<answer>62.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 508.0 within the provided distribution?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",63.07,<answer>63.07</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",67.8,<answer>67.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",79,<answer>79</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",63.8,<answer>63.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",73.2,<answer>73.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",64,<answer>64</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",73.8,<answer>73.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",79.4,<answer>79.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 513.0 within the provided distribution?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",92.3,<answer>92.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",91.92,<answer>91.92</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",84.13,<answer>84.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",89,<answer>89</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",92.7,<answer>92.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",93.3,<answer>93.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 520.0 within the provided distribution?
+Answer:
+",88.5,<answer>88.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",84.13,<answer>84.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",89.1,<answer>89.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",92.3,<answer>92.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",85.13,<answer>85.13</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",90.9,<answer>90.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",95.5,<answer>95.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",92.6,<answer>92.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",91.1,<answer>91.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",92.3,<answer>92.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 537.0 within the provided distribution?
+Answer:
+",84.13,<answer>84.13</answer>

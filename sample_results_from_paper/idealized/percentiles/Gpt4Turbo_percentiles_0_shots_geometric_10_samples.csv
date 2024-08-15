@@ -1,0 +1,2248 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1.0 within the provided distribution?
+Answer:
+",5,<answer>5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",86.32,<answer>86.32</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",90.25,<answer>90.25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",90.25,<answer>90.25</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",86.14,<answer>86.14</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14,"To find the percentile of the value 3.0 in a geometric distribution with a probability of success \( p = 0.05 \), we follow these steps:
+
+1. **Calculate the cumulative probability up to \( x = 3 \)**:
+   The cumulative distribution function (CDF) for a geometric distribution is given by:
+   \[
+   F(k) = 1 - (1 - p)^k
+   \]
+   where \( k \) is the number of trials, and \( p \) is the probability of success on each trial.
+
+   For \( k = 3 \):
+   \[
+   F(3) = 1 - (1 - 0.05)^3 = 1 - 0.95^3 = 1 - 0.857375 = 0.142625
+   \]
+
+2. **Convert the cumulative probability to a percentile**:
+   The percentile is the cumulative probability expressed as a percentage:
+   \[
+   \text{Percentile} = F(3) \times 100 = 0.142625 \times 100 = 14.2625
+   \]
+
+Rounding to a whole number, the percentile of the value 3.0 is approximately 14.
+
+<answer>14</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",86.15,<answer>86.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",86.14,<answer>86.14</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",14.2625,<answer>14.2625</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",85.7375,<answer>85.7375</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 3.0 within the provided distribution?
+Answer:
+",85.7375,<answer>85.7375</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.38,<answer>77.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.38,<answer>77.38</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",22.622,"To find the percentile of the value 5.0 within a geometric distribution with a probability of success \( p = 0.05 \), the following steps are taken:
+
+1. **Calculate the Cumulative Distribution Function (CDF)**: The CDF \( F(k) \) for a geometric distribution at a value \( k \) is given by:
+   \[
+   F(k) = 1 - (1 - p)^k
+   \]
+   Here, \( p = 0.05 \) and \( k = 5 \).
+
+2. **Plug in the values**:
+   \[
+   F(5) = 1 - (1 - 0.05)^5 = 1 - 0.95^5
+   \]
+   \[
+   0.95^5 \approx 0.77378
+   \]
+   \[
+   F(5) = 1 - 0.77378 \approx 0.22622
+   \]
+
+3. **Convert to Percentile**: The CDF value at \( k = 5 \) is approximately 0.22622. To express this as a percentile:
+   \[
+   \text{Percentile} = 0.22622 \times 100 \approx 22.622
+   \]
+
+Thus, the percentile of the value 5.0 within this distribution is:
+<answer>22.622</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 5.0 within the provided distribution?
+Answer:
+",77.378,<answer>77.378</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",97.19,<answer>97.19</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",97.84,<answer>97.84</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",82.1,<answer>82.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",91.3,<answer>91.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",76.271,<answer>76.271</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",96.58,<answer>96.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",96.24,<answer>96.24</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",95.74,<answer>95.74</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",96.29,<answer>96.29</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 7.0 within the provided distribution?
+Answer:
+",96.35,<answer>96.35</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.1,<answer>95.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.1,<answer>95.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.07,<answer>95.07</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.1,<answer>95.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.1,<answer>95.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.1,<answer>95.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.1,<answer>95.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.07,<answer>95.07</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.07,<answer>95.07</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 10.0 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",93.1,<answer>93.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",92.3,<answer>92.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",95.02,<answer>95.02</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",94.87,<answer>94.87</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",93.7,<answer>93.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",92.31,<answer>92.31</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",95.92,<answer>95.92</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",95.87,<answer>95.87</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 14.0 within the provided distribution?
+Answer:
+",42.58,<answer>42.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",99.3,<answer>99.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",95.47,<answer>95.47</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",94.15,<answer>94.15</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",95.83,<answer>95.83</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",94.6,<answer>94.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",95.46,<answer>95.46</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 18.0 within the provided distribution?
+Answer:
+",95.657,<answer>95.657</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",97.6,<answer>97.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",99.6,<answer>99.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",95.54,<answer>95.54</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",99.21,<answer>99.21</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",95.735,<answer>95.735</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",93.2,<answer>93.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",95.7,<answer>95.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",99.6,<answer>99.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",99.4,<answer>99.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 24.0 within the provided distribution?
+Answer:
+",96.05,<answer>96.05</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.85,<answer>99.85</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.8,<answer>99.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.68,<answer>99.68</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.78,<answer>99.78</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.45,<answer>99.45</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.58,<answer>99.58</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.999,<answer>99.999</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.8,<answer>99.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 32.0 within the provided distribution?
+Answer:
+",99.8,<answer>99.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.998,<answer>99.998</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.9999,<answer>99.9999</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.956,<answer>99.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.956,<answer>99.956</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.998,<answer>99.998</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.7,<answer>99.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.5,<answer>99.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 45.0 within the provided distribution?
+Answer:
+",99.998,<answer>99.998</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",99.9999999999726,<answer>99.9999999999726</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Geometric Distribution
+  Characteristics: Models the number of trials until the first success.
+  Probability of Success: 0.05
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 90.0 within the provided distribution?
+Answer:
+",100,<answer>100</answer>

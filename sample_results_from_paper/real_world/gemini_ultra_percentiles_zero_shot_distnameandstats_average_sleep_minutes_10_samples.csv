@@ -1,0 +1,1981 @@
+prompt,answer,reasoning
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",2,<answer>2</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0.18,<answer>0.18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0.001,<answer>0.001</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0.3,<answer>0.3</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 280.833 minutes for users of Fitbit devices?
+Answer:
+",0.00,<answer>0.00</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",1.77,<answer>1.77</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",0.005,<answer>0.005</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",1.06,<answer>1.06</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",4.78,<answer>4.78</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",1.34,<answer>1.34</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",1.48,<answer>1.48</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",2.33,<answer>2.33</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",1.39,<answer>1.39</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 331.325 minutes for users of Fitbit devices?
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",1.33,<answer>1.33</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",3.6,<answer>3.6</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",1.90,<answer>1.90</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",2.24,<answer>2.24</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",2.05,<answer>2.05</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",3.83,<answer>3.83</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 354.023 minutes for users of Fitbit devices?
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",15,<answer>15</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",15,<answer>15</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 369.714 minutes for users of Fitbit devices?
+Answer:
+",15,<answer>15</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",15,<answer>15</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",21,<answer>21</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",16,<answer>16</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 382.807 minutes for users of Fitbit devices?
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",29,<answer>29</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",29,<answer>29</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 394.37 minutes for users of Fitbit devices?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",27,<answer>27</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",36,<answer>36</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 405.83 minutes for users of Fitbit devices?
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",41,<answer>41</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",36,<answer>36</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",39,<answer>39</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",41,<answer>41</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",40,<answer>40</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 417.892 minutes for users of Fitbit devices?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",51,<answer>51</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",55,<answer>55</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",55,<answer>55</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 431.841 minutes for users of Fitbit devices?
+Answer:
+",54,<answer>54</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 450.636 minutes for users of Fitbit devices?
+Answer:
+",74,<answer>74</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",98,<answer>98</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",92,<answer>92</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average sleep minutes count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 427.930 (Shifts the distribution along the x-axis.)
+  Scale: 58.050 (Controls the spread of the distribution.)
+  Skew: -1.177 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of the average sleep minutes count value 493.97 minutes for users of Fitbit devices?
+Answer:
+",96,<answer>96</answer>

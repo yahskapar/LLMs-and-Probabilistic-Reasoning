@@ -1,0 +1,1653 @@
+prompt,answer,reasoning
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.003,<answer>0.003</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.00003,<answer>0.00003</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $20.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.00,<answer>0.00</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.2,<answer>0.2</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.008,<answer>0.008</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.002,<answer>0.002</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.03,<answer>0.03</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.06,<answer>0.06</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $50.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.02,<answer>0.02</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.04,<answer>0.04</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.52,<answer>1.52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0,<answer>0</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.03,<answer>0.03</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.00,<answer>0.00</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.006,<answer>0.006</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",0.07,<answer>0.07</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $90.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.18,<answer>1.18</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",3.72,<answer>3.72</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",3.9,<answer>3.9</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",4.94,<answer>4.94</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",2.87,<answer>2.87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.29,<answer>1.29</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",1.16,<answer>1.16</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",,"<answer>
+3.53
+</answer>"
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",2.65,<answer>2.65</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",2.7,<answer>2.7</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $180.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",4.78,<answer>4.78</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",26.93,<answer>26.93</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",20.59,<answer>20.59</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",28,<answer>28</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",30.52,<answer>30.52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",18.87,<answer>18.87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $360.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",25,<answer>25</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",38,<answer>38</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",36,<answer>36</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",35,<answer>35</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $480.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $600.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",79,<answer>79</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",73,<answer>73</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",79,<answer>79</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $780.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",77,<answer>77</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1000.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $1200.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.97,<answer>99.97</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.95,<answer>99.95</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on finance and statistics. Your task is to estimate the percentile of a given annual water cost within the population using data from the year 2018 in the United States, sourced from the Census Bureau’s American Community Survey (ACS) Public Use Microdata Sample (PUMS). Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+
+## Consider the following parameters that describe a normal distribution of this data:
+
+
+  Mean: 584.638
+  Standard Deviation: 520.797
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual water cost of $2400.0? Do not use any additional tools such as code generation or search engines. Answer with just a numerical response from 0 to 100. Make sure your answer is enclosed by xml tags <answer> and </answer>.
+Answer:
+",99.99,<answer>99.99</answer>

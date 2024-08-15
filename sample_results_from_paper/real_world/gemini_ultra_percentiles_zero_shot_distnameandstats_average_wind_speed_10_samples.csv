@@ -1,0 +1,1981 @@
+prompt,answer,reasoning
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",0.004,<answer>0.004</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",1.87,<answer>1.87</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",1.01,<answer>1.01</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",0.001,<answer>0.001</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",0.06,<answer>0.06</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",1.74,<answer>1.74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",4.78,<answer>4.78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",0.45,<answer>0.45</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 0.5 meters per second?
+Answer:
+",1.99,<answer>1.99</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",8.54,<answer>8.54</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",16.94,<answer>16.94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",13.57,<answer>13.57</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",15.15,<answer>15.15</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",12.22,<answer>12.22</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",16.28,<answer>16.28</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",8.98,<answer>8.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",19.96,<answer>19.96</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",17.08,<answer>17.08</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.3 meters per second?
+Answer:
+",14.88,<answer>14.88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",34.55,<answer>34.55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",28.21,<answer>28.21</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",25.21,<answer>25.21</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",55,<answer>55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",18.52,<answer>18.52</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",24.38,<answer>24.38</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",29.82,<answer>29.82</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",52,<answer>52</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",31.39,<answer>31.39</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 1.8 meters per second?
+Answer:
+",55.78,<answer>55.78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",58,<answer>58</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",34.64,<answer>34.64</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",64,<answer>64</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.2 meters per second?
+Answer:
+",71.26,<answer>71.26</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",59.62,<answer>59.62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",78,<answer>78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",70,<answer>70</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 2.6 meters per second?
+Answer:
+",58,<answer>58</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",69.0,<answer>69.0</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",84.80,<answer>84.80</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",69.14,<answer>69.14</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",56,<answer>56</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.0 meters per second?
+Answer:
+",82,<answer>82</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",59.46,<answer>59.46</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",71.36,<answer>71.36</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",79,<answer>79</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",77.46,<answer>77.46</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 3.5 meters per second?
+Answer:
+",47,<answer>47</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",79.8,<answer>79.8</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",26.87,<answer>26.87</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",86.94,<answer>86.94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",76.74,<answer>76.74</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",89.09,<answer>89.09</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",75.14,<answer>75.14</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",75.48,<answer>75.48</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.0 meters per second?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",72,<answer>72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",78,<answer>78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",71,<answer>71</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",80,<answer>80</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",79,<answer>79</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",92.92,<answer>92.92</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",73.84,<answer>73.84</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",68,<answer>68</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 4.7 meters per second?
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",99.34,<answer>99.34</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",96.71,<answer>96.71</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",99.80,<answer>99.80</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",95.80,<answer>95.80</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",94.96,<answer>94.96</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 5.7 meters per second?
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",99.9,<answer>99.9</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",99.8,<answer>99.8</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",99.50,<answer>99.50</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",99.38,<answer>99.38</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",98.79,<answer>98.79</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",99.93,<answer>99.93</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",98.94,<answer>98.94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",99.65,<answer>99.65</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",99.46,<answer>99.46</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given average wind speed value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Log-Normal Distribution
+  Characteristics: This distribution models values that are the result of the multiplicative product of many independent random variables, such as income levels, stock prices, or city sizes.
+  Log Mean (mu): 1.558
+  Log Sigma (sigma): 0.340
+  These parameters mean that the natural logarithm of the values follows a normal distribution with the specified mean and standard deviation.
+
+
+## Here is your question:
+Question:
+What is the percentile of an average wind speed of 8.2 meters per second?
+Answer:
+",99.98,<answer>99.98</answer>

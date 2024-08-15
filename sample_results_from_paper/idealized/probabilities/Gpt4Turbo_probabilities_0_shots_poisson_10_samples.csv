@@ -1,0 +1,1901 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.063,<answer>0.063</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.042644,<answer>0.042644</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.062,<answer>0.062</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.064,<answer>0.064</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.062,<answer>0.062</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.063,<answer>0.063</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.062,<answer>0.062</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.087,<answer>0.087</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 69.0 and 71.0?
+Answer:
+",0.0484,<answer>0.0484</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.103,<answer>0.103</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.0739,<answer>0.0739</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.1048,<answer>0.1048</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.0707,<answer>0.0707</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.1396,<answer>0.1396</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.0954,<answer>0.0954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.0842,<answer>0.0842</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 68.0 and 72.0?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.229,<answer>0.229</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.227,<answer>0.227</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.2443,<answer>0.2443</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.185,<answer>0.185</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.1844,<answer>0.1844</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.2861,<answer>0.2861</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.3464,<answer>0.3464</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.185,<answer>0.185</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.197,<answer>0.197</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 67.0 and 73.0?
+Answer:
+",0.221199,<answer>0.221199</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.2291,<answer>0.2291</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.245,<answer>0.245</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.225,<answer>0.225</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.2231,<answer>0.2231</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.408,<answer>0.408</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.259,<answer>0.259</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.197,<answer>0.197</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.221199,<answer>0.221199</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.263,<answer>0.263</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 66.0 and 74.0?
+Answer:
+",0.2441,<answer>0.2441</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.5033,<answer>0.5033</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.314,<answer>0.314</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.3677,<answer>0.3677</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.5904,<answer>0.5904</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.483,<answer>0.483</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.5128,<answer>0.5128</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.5398,<answer>0.5398</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.5398,<answer>0.5398</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.449,<answer>0.449</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 64.0 and 75.0?
+Answer:
+",0.513,<answer>0.513</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.8664,<answer>0.8664</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.9526,<answer>0.9526</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.8073,<answer>0.8073</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.954,<answer>0.954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.945,<answer>0.945</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.8119,<answer>0.8119</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.945,<answer>0.945</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.5931,<answer>0.5931</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.887,<answer>0.887</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 63.0 and 77.0?
+Answer:
+",0.866385,<answer>0.866385</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.955,<answer>0.955</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.964,<answer>0.964</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.9521,<answer>0.9521</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.958,<answer>0.958</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.958,<answer>0.958</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 62.0 and 78.0?
+Answer:
+",0.897,<answer>0.897</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.945,<answer>0.945</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.945,<answer>0.945</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.945,<answer>0.945</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.7063,<answer>0.7063</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.8302,<answer>0.8302</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.925,<answer>0.925</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.8158,<answer>0.8158</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.945,<answer>0.945</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 60.0 and 80.0?
+Answer:
+",0.705,<answer>0.705</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.982,<answer>0.982</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.954,<answer>0.954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.958,<answer>0.958</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.982,<answer>0.982</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.9826,<answer>0.9826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.982,<answer>0.982</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.9826,<answer>0.9826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.982,<answer>0.982</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 57.0 and 83.0?
+Answer:
+",0.9826,<answer>0.9826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.9529,<answer>0.9529</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.9526,<answer>0.9526</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.9578,<answer>0.9578</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Poisson Distribution
+  Characteristics: Suitable for modeling the number of events happening in a fixed interval of time or space.
+  Lambda: 70 (Average rate of events per interval.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 51.0 and 90.0?
+Answer:
+",0.957,<answer>0.957</answer>

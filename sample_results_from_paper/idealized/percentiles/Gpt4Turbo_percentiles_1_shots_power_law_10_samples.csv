@@ -1,0 +1,3741 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 100.763 within the provided distribution?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",12.2,<answer>12.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",10.7,<answer>10.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",12.9,<answer>12.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",25.0,<answer>25.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",13.5,<answer>13.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",35.9,<answer>35.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",14.3,<answer>14.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",12.9,<answer>12.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",12.3,<answer>12.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 113.335 within the provided distribution?
+Answer:
+",12.9,<answer>12.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",38.2,<answer>38.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",35.0,<answer>35.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",35.3,<answer>35.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",63.6,<answer>63.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",36.4,<answer>36.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",35.4,<answer>35.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",41.2,<answer>41.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",28.9,<answer>28.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",35.0,<answer>35.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 131.487 within the provided distribution?
+Answer:
+",35.8,<answer>35.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",23.9,<answer>23.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",36.4,<answer>36.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",36.4,<answer>36.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",38.6,<answer>38.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",41.4,<answer>41.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",23.0,<answer>23.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",42.3,<answer>42.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",35.7,<answer>35.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",22.8,<answer>22.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 155.358 within the provided distribution?
+Answer:
+",23.6,<answer>23.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",10.0,<answer>10.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",97.9,<answer>97.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",92.7,<answer>92.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",95.0,<answer>95.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",95.8,<answer>95.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",92.4,<answer>92.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",95.1,<answer>95.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",83.7,<answer>83.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",95.8,<answer>95.8</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 188.606 within the provided distribution?
+Answer:
+",97.1,<answer>97.1</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",73.4,<answer>73.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",72.6,<answer>72.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",72.3,<answer>72.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",72.4,<answer>72.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",43.6,<answer>43.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",73.2,<answer>73.2</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",72.0,<answer>72.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",74.0,<answer>74.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",73.4,<answer>73.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 236.565 within the provided distribution?
+Answer:
+",74.0,<answer>74.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",72.4,<answer>72.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",74.6,<answer>74.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",73.4,<answer>73.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",72.4,<answer>72.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",72.6,<answer>72.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",72.3,<answer>72.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",78.6,<answer>78.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",77.6,<answer>77.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",84.6,<answer>84.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 311.535 within the provided distribution?
+Answer:
+",74.6,<answer>74.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",72.3,<answer>72.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",74.3,<answer>74.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",72.3,<answer>72.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",69.0,<answer>69.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",73.0,<answer>73.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",72.6,<answer>72.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",72.6,<answer>72.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",71.0,<answer>71.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",74.3,<answer>74.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 445.251 within the provided distribution?
+Answer:
+",72.6,<answer>72.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",92.0,<answer>92.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",92.0,<answer>92.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",92.4,<answer>92.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",82.0,<answer>82.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",92.0,<answer>92.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",92.6,<answer>92.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",72.3,<answer>72.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",92.4,<answer>92.4</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",92.6,<answer>92.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 735.294 within the provided distribution?
+Answer:
+",75.0,<answer>75.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",91.3,<answer>91.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",92.6,<answer>92.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",87.6,<answer>87.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",92.7,<answer>92.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",91.5,<answer>91.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",86.6,<answer>86.6</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",92.7,<answer>92.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",92.0,<answer>92.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",92.3,<answer>92.3</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 1723.135 within the provided distribution?
+Answer:
+",92.0,<answer>92.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.9,<answer>99.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.9,<answer>99.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",97.5,<answer>97.5</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.0,<answer>99.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.9,<answer>99.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.9,<answer>99.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.7,<answer>99.7</answer>
+"
+## You are an expert on statistics. Your task is to estimate the percentile of a number within a specific distribution. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>
+
+## Here are some examples to help you understand the task:
+
+
+Example 1:
+Distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.676 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 198 (Minimum value for which the power law behavior holds.)
+  
+Question:
+What is the percentile of 765.322 within the provided distribution?
+Answer:
+<answer>60.0</answer>
+
+
+## Consider the following distribution:
+
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+What is the percentile of the value 30359.529 within the provided distribution?
+Answer:
+",99.9,<answer>99.9</answer>

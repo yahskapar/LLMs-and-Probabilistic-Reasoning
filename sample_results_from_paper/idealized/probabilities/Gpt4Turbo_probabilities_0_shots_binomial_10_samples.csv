@@ -1,0 +1,2001 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.125,<answer>0.125</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.025,<answer>0.025</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.047,<answer>0.047</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.035,<answer>0.035</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.1706,<answer>0.1706</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.125661,<answer>0.125661</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.0,<answer>0.0</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.136,<answer>0.136</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 498.0 and 502.0?
+Answer:
+",0.136,<answer>0.136</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.157299207050285,<answer>0.157299207050285</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.143,<answer>0.143</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.18406012534668072,<answer>0.18406012534668072</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.2358,<answer>0.2358</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.2546,<answer>0.2546</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.484,<answer>0.484</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.483,<answer>0.483</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.1844,<answer>0.1844</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.214,<answer>0.214</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 496.0 and 504.0?
+Answer:
+",0.1573,<answer>0.1573</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.6463,<answer>0.6463</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.8207,<answer>0.8207</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.86638,<answer>0.86638</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.4838,<answer>0.4838</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.483,<answer>0.483</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.483,<answer>0.483</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 494.0 and 506.0?
+Answer:
+",0.483,<answer>0.483</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.484,<answer>0.484</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.4826,<answer>0.4826</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.9616,<answer>0.9616</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.945,<answer>0.945</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 492.0 and 508.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.9648,<answer>0.9648</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.964,<answer>0.964</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.9648,<answer>0.9648</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.982,<answer>0.982</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.95,<answer>0.95</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 489.0 and 510.0?
+Answer:
+",0.8206,<answer>0.8206</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.9798,<answer>0.9798</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.964,<answer>0.964</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.9648,<answer>0.9648</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.9648,<answer>0.9648</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.9633,<answer>0.9633</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.732,<answer>0.732</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 487.0 and 513.0?
+Answer:
+",0.4838,<answer>0.4838</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.9608,<answer>0.9608</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.9664,<answer>0.9664</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.9648,<answer>0.9648</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 484.0 and 516.0?
+Answer:
+",0.964,<answer>0.964</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.9648,<answer>0.9648</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 480.0 and 520.0?
+Answer:
+",0.9545,<answer>0.9545</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.953,<answer>0.953</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.8203,<answer>0.8203</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.819,<answer>0.819</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.9648,<answer>0.9648</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.8206,<answer>0.8206</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.8206,<answer>0.8206</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.957,<answer>0.957</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.8206,<answer>0.8206</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.8204,<answer>0.8204</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 475.0 and 525.0?
+Answer:
+",0.7887,<answer>0.7887</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.982,<answer>0.982</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.983,<answer>0.983</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.981,<answer>0.981</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.982,<answer>0.982</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.9802,<answer>0.9802</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.982,<answer>0.982</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Binomial Distribution
+  Characteristics: Describes the number of successes in a fixed number of trials with a given probability of success.
+  Trials: 1000 (Total number of trials.)
+  Probability of Success: 0.5 (Probability of success in each trial.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 463.0 and 537.0?
+Answer:
+",0.98,<answer>0.98</answer>

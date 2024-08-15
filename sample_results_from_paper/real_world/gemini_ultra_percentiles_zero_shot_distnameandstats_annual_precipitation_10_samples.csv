@@ -1,0 +1,1981 @@
+prompt,answer,reasoning
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.000002,<answer>0.000002</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.92,<answer>0.92</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.02,<answer>0.02</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.004,<answer>0.004</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.005,<answer>0.005</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.35,<answer>0.35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.0003,<answer>0.0003</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.02,<answer>0.02</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.002,<answer>0.002</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 17.8 millimeters?
+Answer:
+",0.12,<answer>0.12</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",0.13,<answer>0.13</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",2.43,<answer>2.43</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",4.71,<answer>4.71</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",0.21,<answer>0.21</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",4.09,<answer>4.09</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",10.11,<answer>10.11</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",3.63,<answer>3.63</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",3.76,<answer>3.76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",2.55,<answer>2.55</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 178.47 millimeters?
+Answer:
+",0.16,<answer>0.16</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",4.09,<answer>4.09</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",14.56,<answer>14.56</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",25.03,<answer>25.03</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",13.79,<answer>13.79</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",24.89,<answer>24.89</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",11.34,<answer>11.34</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",15.88,<answer>15.88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",23.04,<answer>23.04</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",10.95,<answer>10.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 293.6 millimeters?
+Answer:
+",11.15,<answer>11.15</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",31.53,<answer>31.53</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",25.98,<answer>25.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",27.73,<answer>27.73</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",12.24,<answer>12.24</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",24.93,<answer>24.93</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",44,<answer>44</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 402.2 millimeters?
+Answer:
+",45.37,<answer>45.37</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",59,<answer>59</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",26.6,<answer>26.6</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",40.62,<answer>40.62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",33.73,<answer>33.73</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",31.27,<answer>31.27</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",19.84,<answer>19.84</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",23.35,<answer>23.35</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",44.42,<answer>44.42</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",25.92,<answer>25.92</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 517.8 millimeters?
+Answer:
+",7.08,<answer>7.08</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",78,<answer>78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",50.61,<answer>50.61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",60.39,<answer>60.39</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",55.75,<answer>55.75</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",53,<answer>53</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",28.53,<answer>28.53</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",81,<answer>81</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 647.5 millimeters?
+Answer:
+",48,<answer>48</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",75.59,<answer>75.59</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",60.51,<answer>60.51</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",67,<answer>67</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",61,<answer>61</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",69.67,<answer>69.67</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",51.06,<answer>51.06</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",75.08,<answer>75.08</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 802.2 millimeters?
+Answer:
+",60.82,<answer>60.82</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",94.12,<answer>94.12</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",86.76,<answer>86.76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",88.83,<answer>88.83</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 975.6 millimeters?
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",97.76,<answer>97.76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",83,<answer>83</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",91,<answer>91</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",98.37,<answer>98.37</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",76,<answer>76</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1216.46 millimeters?
+Answer:
+",95.85,<answer>95.85</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",99.03,<answer>99.03</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",91.95,<answer>91.95</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",99.36,<answer>99.36</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",99.36,<answer>99.36</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",99.94,<answer>99.94</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",96.51,<answer>96.51</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",94.04,<answer>94.04</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",98.78,<answer>98.78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",99.72,<answer>99.72</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 1526.86 millimeters?
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",99.96,<answer>99.96</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",99.6,<answer>99.6</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",99.7,<answer>99.7</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",99.78,<answer>99.78</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",99.83,<answer>99.83</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",97,<answer>97</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",99.84,<answer>99.84</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",95.42,<answer>95.42</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on climate science and statistics. Your task is to estimate the percentile of a given annual precipitation value using data from U.S. weather stations in the year 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA) Global Historical Climatology Network Daily (GHCNd). Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Skew-Normal Distribution
+  Characteristics: A generalization of the normal distribution to accommodate skewness.
+  Location: 60.505 (Shifts the distribution along the x-axis.)
+  Scale: 858.484 (Controls the spread of the distribution.)
+  Skew: 13.395 (Determines the direction and degree of skewness.)
+
+
+## Here is your question:
+Question:
+What is the percentile of an annual precipitation value of 2025.849 millimeters?
+Answer:
+",99.99,<answer>99.99</answer>

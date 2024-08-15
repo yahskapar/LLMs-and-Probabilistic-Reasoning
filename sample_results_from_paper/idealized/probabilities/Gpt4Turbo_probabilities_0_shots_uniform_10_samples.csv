@@ -1,0 +1,2032 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 97.026 and 103.041?
+Answer:
+",0.06015,<answer>0.06015</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",0.11947,<answer>0.11947</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",0.11947,<answer>0.11947</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",0.11947,<answer>0.11947</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",0.11947,<answer>0.11947</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",0.11947,<answer>0.11947</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",,<answer>0.11947</address>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",0.11947,<answer>0.11947</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",0.11947,<answer>0.11947</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",,<answer>0.11947</aanswer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 94.068 and 106.015?
+Answer:
+",0.11947,<answer>0.11947</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35954,<answer>0.35954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35927,<answer>0.35927</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35954,<answer>0.35954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35954,<answer>0.35954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35854,<answer>0.35854</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35954,<answer>0.35954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.5981,<answer>0.5981</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35954,<answer>0.35954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35954,<answer>0.35954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 91.064 and 108.991?
+Answer:
+",0.35954,<answer>0.35954</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.59636,<answer>0.59636</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.23818,<answer>0.23818</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.23818,<answer>0.23818</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.23818,<answer>0.23818</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.5979,<answer>0.5979</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.3953,"To solve this problem, we first need to understand the properties of a uniform distribution between min = 70 and max = 130.
+
+1. **Uniform Distribution Range**: The range of the distribution is from 70 to 130.
+
+2. **Width of the Distribution**: The width of the distribution is \(130 - 70 = 60\).
+
+3. **Density of the Distribution**: Since this is a uniform distribution, the probability density function (PDF) is constant across the interval. The density \(f(x)\) is given by \(f(x) = \frac{1}{\text{width of distribution}} = \frac{1}{60}\).
+
+4. **Probability Calculation**:
+   - **Lower Bound**: 88.181
+   - **Upper Bound**: 111.899
+
+   To find the probability of a value falling between 88.181 and 111.899, we calculate the proportion of the interval [88.181, 111.899] relative to the entire distribution range [70, 130].
+
+   - Length of the interval of interest: \(111.899 - 88.181 = 23.718\).
+   - Probability: The probability is the length of the interval of interest divided by the total width of the distribution:
+   \[
+   P(88.181 \leq X \leq 111.899) = \frac{23.718}{60}
+   \]
+
+   - Calculation: \( \frac{23.718}{60} = 0.3953 \)
+
+Thus, the probability that a value from this uniform distribution is between 88.181 and 111.899 is approximately 0.3953.
+
+<answer>0.3953</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.5959,<answer>0.5959</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.59618,<answer>0.59618</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.23818,<answer>0.23818</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 88.181 and 111.899?
+Answer:
+",0.23818,<answer>0.23818</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.7439,<answer>0.7439</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.744,<answer>0.744</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.7403,<answer>0.7403</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.7439,<answer>0.7439</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.594,<answer>0.594</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.7429,<answer>0.7429</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.74439,<answer>0.74439</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.7439,<answer>0.7439</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.74578,<answer>0.74578</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 85.262 and 114.84?
+Answer:
+",0.74578,<answer>0.74578</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.89456,<answer>0.89456</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.70712,<answer>0.70712</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.59093,"To compute the probability of a value falling between 82.329 and 117.785 in a uniform distribution ranging from 70 to 130:
+
+1. **Range of the Distribution:** \( 130 - 70 = 60 \)
+2. **Range of Interest:** \( 117.785 - 82.329 = 35.456 \)
+3. **Probability Calculation:** \( \frac{35.456}{60} = 0.59093 \)
+
+Thus, the probability is:
+<answer>0.59093</answer>"
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.70656,<answer>0.70656</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.70892,<answer>0.70892</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.88928,<answer>0.88928</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.70912,<answer>0.70912</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.88556,<answer>0.88556</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.88928,<answer>0.88928</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 82.329 and 117.785?
+Answer:
+",0.90184,<answer>0.90184</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.82858,<answer>0.82858</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.83333,<answer>0.83333</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.83232,<answer>0.83232</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.83116,<answer>0.83116</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.83116,<answer>0.83116</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.82658,<answer>0.82658</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.82658,<answer>0.82658</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.83258,<answer>0.83258</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.82658,<answer>0.82658</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 79.381 and 120.639?
+Answer:
+",0.82658,<answer>0.82658</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.47149,<answer>0.47149</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.94394,<answer>0.94394</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.94394,<answer>0.94394</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.94298,<answer>0.94298</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.94298,<answer>0.94298</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.94298,<answer>0.94298</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.94298,<answer>0.94298</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.94298,<answer>0.94298</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.943,<answer>0.943</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 76.387 and 123.536?
+Answer:
+",0.94298,<answer>0.94298</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.924,<answer>0.924</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.95455,<answer>0.95455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.95455,<answer>0.95455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.95455,<answer>0.95455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.95455,<answer>0.95455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.95455,<answer>0.95455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.922,<answer>0.922</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.95455,<answer>0.95455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.95455,<answer>0.95455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 73.483 and 126.484?
+Answer:
+",0.90667,<answer>0.90667</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97816,<answer>0.97816</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97816,<answer>0.97816</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97816,<answer>0.97816</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97816,<answer>0.97816</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97616,<answer>0.97616</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.98616,<answer>0.98616</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97816,<answer>0.97816</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97716,<answer>0.97716</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97616,<answer>0.97616</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Uniform Distribution
+  Characteristics: All values within the interval have equal probability of occurring.
+  Min: 70 (Minimum value of the distribution.)
+  Max: 130 (Maximum value of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 70.568 and 129.384?
+Answer:
+",0.97816,<answer>0.97816</answer>

@@ -1,0 +1,2001 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.1239,<answer>0.1239</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.0848,<answer>0.0848</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.0804,<answer>0.0804</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.0442,<answer>0.0442</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.0478,<answer>0.0478</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.0181,<answer>0.0181</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.0342,<answer>0.0342</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.0971,<answer>0.0971</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.1239,<answer>0.1239</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 30.67 and 36.941?
+Answer:
+",0.0849,<answer>0.0849</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.123,<answer>0.123</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1251,<answer>0.1251</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1233,<answer>0.1233</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1573,<answer>0.1573</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1238,<answer>0.1238</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1234,<answer>0.1234</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1232,<answer>0.1232</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1233,<answer>0.1233</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1238,<answer>0.1238</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 27.747 and 40.414?
+Answer:
+",0.1235,<answer>0.1235</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.402,<answer>0.402</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.3642,<answer>0.3642</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.3975,<answer>0.3975</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.5755,<answer>0.5755</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.312,<answer>0.312</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.263,<answer>0.263</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.4368,<answer>0.4368</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.2105,<answer>0.2105</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.3294,<answer>0.3294</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 24.96 and 44.222?
+Answer:
+",0.3859,<answer>0.3859</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.7056,<answer>0.7056</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.911,<answer>0.911</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.6827,<answer>0.6827</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.713,<answer>0.713</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.508,<answer>0.508</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.794,<answer>0.794</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.455,<answer>0.455</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.683,<answer>0.683</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.4777,<answer>0.4777</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 22.3 and 48.504?
+Answer:
+",0.8107,<answer>0.8107</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.8647,<answer>0.8647</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.636,<answer>0.636</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.7055,<answer>0.7055</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.529,<answer>0.529</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.9,<answer>0.9</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.7056,<answer>0.7056</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.475,<answer>0.475</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 19.607 and 53.379?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 16.917 and 59.237?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.963,<answer>0.963</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 14.103 and 66.25?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 11.22 and 75.488?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 7.863 and 90.036?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Gamma Distribution
+  Characteristics: Used to model waiting times and life data among other things.
+  Shape: 2.0 (Controls the skewness of the distribution.)
+  Scale: 20 (Controls the spread of the distribution.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 3.045 and 131.587?
+Answer:
+",0.98,<answer>0.98</answer>

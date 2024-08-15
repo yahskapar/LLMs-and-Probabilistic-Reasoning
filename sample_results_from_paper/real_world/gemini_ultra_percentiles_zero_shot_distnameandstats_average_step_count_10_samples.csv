@@ -1,0 +1,1761 @@
+prompt,answer,reasoning
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",0.06,<answer>0.06</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",1.54,<answer>1.54</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",1.26,<answer>1.26</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",0.03,<answer>0.03</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",0.2,<answer>0.2</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",0.16,<answer>0.16</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",0.05,<answer>0.05</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",0.01,<answer>0.01</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 2174.61 steps for users of Fitbit devices?
+Answer:
+",0.03,<answer>0.03</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",4.39,<answer>4.39</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",5.16,<answer>5.16</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",5.07,<answer>5.07</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",4.68,<answer>4.68</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",5.43,<answer>5.43</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",5.53,<answer>5.53</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",5.3,<answer>5.3</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",6.88,<answer>6.88</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",2,<answer>2</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 4433.794 steps for users of Fitbit devices?
+Answer:
+",10,<answer>10</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",11,<answer>11</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",12,<answer>12</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",17,<answer>17</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",14,<answer>14</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",13,<answer>13</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",16,<answer>16</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 5558.104 steps for users of Fitbit devices?
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",24,<answer>24</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",23,<answer>23</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",21,<answer>21</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",22,<answer>22</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",26,<answer>26</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",18,<answer>18</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 6445.293 steps for users of Fitbit devices?
+Answer:
+",20,<answer>20</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",33,<answer>33</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",34,<answer>34</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",37,<answer>37</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",34,<answer>34</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",31,<answer>31</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",32,<answer>32</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 7244.214 steps for users of Fitbit devices?
+Answer:
+",30,<answer>30</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",41,<answer>41</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",42,<answer>42</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8028.321 steps for users of Fitbit devices?
+Answer:
+",43,<answer>43</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",60,<answer>60</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",63,<answer>63</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",65,<answer>65</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",64,<answer>64</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 8845.736 steps for users of Fitbit devices?
+Answer:
+",62,<answer>62</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",84,<answer>84</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",89,<answer>89</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",87,<answer>87</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",85,<answer>85</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",89,<answer>89</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",88,<answer>88</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 9791.713 steps for users of Fitbit devices?
+Answer:
+",86,<answer>86</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",94,<answer>94</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",92,<answer>92</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",95,<answer>95</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",96,<answer>96</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 11000.567 steps for users of Fitbit devices?
+Answer:
+",93,<answer>93</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 12792.197 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",100,<answer>100</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99.98,<answer>99.98</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99.99,<answer>99.99</answer>
+"
+## You are an expert on population health and wearable fitness devices. Your task is to estimate the percentile of a given average step count value for a population that regularly uses Fitbit devices and is active on a daily basis. The data is filtered for individuals aged 18-65. The data is age-balanced and gender-balanced, and pertains to the U.S. population only. Answer with just a numerical response from 0 to 100. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Note that the following distribution type and parameters correspond to this data:
+
+
+  Distribution Type: Normal Distribution
+  Mean: 8366.971
+  Standard Deviation: 3291.940
+
+
+## Here is your question:
+Question:
+What is the percentile of the average step count value 17510.718 steps for users of Fitbit devices?
+Answer:
+",99,<answer>99</answer>

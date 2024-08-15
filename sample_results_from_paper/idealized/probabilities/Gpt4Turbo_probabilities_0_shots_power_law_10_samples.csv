@@ -1,0 +1,2001 @@
+prompt,answer,reasoning
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.251,<answer>0.251</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.199,<answer>0.199</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.157,<answer>0.157</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.155,<answer>0.155</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.214,<answer>0.214</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.1878,<answer>0.1878</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.14219,<answer>0.14219</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.1442,<answer>0.1442</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.229,<answer>0.229</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 210.272 and 270.455?
+Answer:
+",0.228,<answer>0.228</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.722,<answer>0.722</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.436,<answer>0.436</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.764,<answer>0.764</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.697,<answer>0.697</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.436,<answer>0.436</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.436,<answer>0.436</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.784,<answer>0.784</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.495,<answer>0.495</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.619,<answer>0.619</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 188.855 and 313.015?
+Answer:
+",0.693147,<answer>0.693147</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.605,<answer>0.605</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.754,<answer>0.754</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.874,<answer>0.874</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.736,<answer>0.736</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 170.829 and 369.394?
+Answer:
+",0.705,<answer>0.705</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.6566,<answer>0.6566</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.764,<answer>0.764</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.609,<answer>0.609</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.699,<answer>0.699</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.8112,<answer>0.8112</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.898,<answer>0.898</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.616,<answer>0.616</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.7371,<answer>0.7371</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 156.24 and 444.974?
+Answer:
+",0.686,<answer>0.686</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 143.599 and 555.418?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.924,<answer>0.924</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.9398,<answer>0.9398</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.8972,<answer>0.8972</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 132.64 and 727.546?
+Answer:
+",0.94,<answer>0.94</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.898,<answer>0.898</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.888,<answer>0.888</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.963,<answer>0.963</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 123.056 and 1014.741?
+Answer:
+",0.96,<answer>0.96</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 114.529 and 1611.736?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 107.22 and 3450.188?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
+"
+## You are an expert on statistics. Your task is to estimate the probability of being in a range of values within a given distribution. Answer with just a numerical response from 0 to 1, representing the probability. Make sure your final answer is enclosed by xml tags <answer> and </answer>.
+
+## Here are some examples to help you understand the task:
+
+
+
+## Consider the following distribution:
+
+  Distribution Type: Power Law Distribution
+  Characteristics: Known for its heavy tails suitable for describing phenomena with a high incidence of extreme values.
+  Alpha: 1.8 (Controls the tail heaviness—the smaller the alpha, the fatter the tail.)
+  Xmin: 100 (Minimum value for which the power law behavior holds.)
+  
+
+## Here is your question:
+Question:
+Considering only values including and between the 1st percentile and the 99th percentile, what is the probability that a value from the provided distribution is between 100.689 and 30445.964?
+Answer:
+",0.98,<answer>0.98</answer>
