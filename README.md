@@ -1,5 +1,5 @@
 <p align="center">
-:fire: Please remember to :star: this repo if you find it useful and cite our work if you end up using it in your work! :fire:
+:fire: Remember to :star: this repo if you find it useful and cite our work if you use in your work! :fire:
 </p>
 <p align="center">
 :fire: If you have any questions or concerns, please create an <a href="https://github.com/yahskapar/LLMs-and-Probabilistic-Reasoning/issues">issue</a> :memo:! :fire:
